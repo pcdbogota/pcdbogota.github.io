@@ -52,8 +52,12 @@ El Processing Community Day en Bogotá es un evento de ....
 
 
 ![input](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-1.gif)
-.....
 
+La ventana es una de las metáforas más utilizadas en la informática. Estos contenedores rectangulares, permiten la entrada y salida de datos a nuestras máquinas y, a pesar de pasar desapercibidas la mayor parte del tiempo, son posiblemente la interfaz gráfica más utilizada a diario. La mayoría de las ventanas pueden ser redimensionadas, movidas, ocultadas, restauradas, y cerradas a voluntad. En este taller abordaremos las ventanas como elementos de interacción. Utilizando Processing aprenderemos a manipular los atributos subyacentes de las ventanas de nuestros sistemas operativos para usos creativos.
+
+![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-2.png)|![imagen2](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-3.png)
+----------|----------
+![imagen3](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-4.gif)|![imagen4](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-5.gif)
 
 
 ## Sobre el Processing Foundation
