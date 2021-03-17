@@ -23,7 +23,7 @@ El Processing Community Day en Bogotá es un evento de ....
 
 5:00 - 7:00 PM • Laura Junco
 
-## Sobre las charlas
+## Sobre las conferencias
 
 ### Maria Paulina Gutierrez
 
