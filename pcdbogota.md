@@ -21,7 +21,7 @@ El Processing Community Day en Bogotá es un evento de ....
 
 3:00 - 5:00 PM • Nathier Fernández
 
-5:00 - 7:00 PM • Laura Junco
+5:00 - 7:00 PM • Manipulacion de ventanas con Processing ~ Laura Junco
 
 ## Sobre las conferencias
 
