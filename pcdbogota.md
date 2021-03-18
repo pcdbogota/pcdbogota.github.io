@@ -1,8 +1,8 @@
 # PROCESSING COMMUNITY DAY BOGOTÁ
 
 ## Descripción del evento
-El Processing Community Day en Bogotá es un evento de ....
-
+El [Processing Community Day](https://www.pcdaarhus.net/) es una iniciativa mundial impulsada por el Processing Fundation para celebrar el arte, el código y la diversidad. Actualmente este evento involucra a más de 30 ciudades del mundo, tales como New York, Sao Paulo, Toronto, London, Madrid, entre otros.
+Este día tiene como objetivo promover el uso de herramientas digitales e incentivar el interés de la comunidad en la creación visual a través de la programación. Se promueve un dialogo en donde se exponen diversas formas de trabajar y pensar con el software, así como se comparten ideas en desarrollo y proyectos terminados, impulsando a aquellas personas interesadas en el área a aprender y a crear a partir de código.
 
 ## Cronograma Martes 06/04/2021
 
@@ -23,7 +23,7 @@ El Processing Community Day en Bogotá es un evento de ....
 
 5:00 - 7:00 PM • Manipulacion de ventanas con Processing ~ Laura Junco
 
-## Sobre las conferencias
+## Sobre los conferencistas
 
 ### Maria Paulina Gutierrez
 
@@ -35,7 +35,10 @@ El Processing Community Day en Bogotá es un evento de ....
 
 ### Cristian González
 
-.....
+![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-2.png)|!Como Ingeniero electrónico y desarrollador encuentro en la combinación entre arte, ciencia  y tecnología un escenario con el potencial  ideal para explorar la interacción humano-máquina mediante la creación de experiencias significativas diseñadas desde un enfoque centrado en el humano.
+Actualmente basado en Vancouver, trabajo como arquitecto de soluciones para Tangible un estudio de arte y diseño, dedicado a la creación de experiencias y productos que reúnen y  conectan a las personas invitandolas a vivir el momento conectadas con sus sentidos y el entorno.
+Con 8 años de experiencia en la industria creativa mi trabajo se enfoca al diseño, desarrollo e implementación de sistemas/instalaciones multimedia e interactivas que se caracterizan por integrar elementos como la creación de gráficos y contenido generativo en tiempo real, videojuegos, realidad mixta, mapping, live act, iluminación, computación física y diseño electrónico a la medida.
+
 
 
 ## Sobre los talleres
