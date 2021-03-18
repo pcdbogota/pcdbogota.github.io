@@ -41,13 +41,13 @@ El Processing Community Day en Bogotá es un evento de ....
 ## Sobre los talleres
 
 > **Introducción al Neoperreo Algorítmico - Ícaro López**
-
+>
 ><p align="center" width="100%">
 >    <img width="50%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Icaro-1.png"> 
 ></p>
-
+>
 > ***¡Vamo’ al garete con las variables!***
-
+>
 >Del Algorave al Reggaetron, con todo el flow del live coding. Una práctica traída desde las oscuras fiestas de hackers, y que juntos vamo’ a llevar a parisear. >Daremos un paseo por diferentes entornos del código sonoro en vivo y luego a oir cómo la compu maquinea y como el código se arrebata bata en Sonic Pi. Perreo >programado, beats y algorritmos. Conectando todo el dembow con Processing será un workshop para sandunguear. 
 
 
