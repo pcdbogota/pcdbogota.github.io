@@ -17,7 +17,7 @@ El Processing Community Day en Bogotá es un evento de ....
 11:30 AM • [Cristian González](https://tangibleinteraction.com/)
 
 ### Tarde
-1:00 - 3:00 PM • [Ícaro López](https://co.linkedin.com/in/icaro-lópez-de-mesa-moyano-0b14139b)
+1:00 - 3:00 PM • Introducción al Neoperreo Algorítmico ~ [Ícaro López](https://co.linkedin.com/in/icaro-lópez-de-mesa-moyano-0b14139b)
 
 3:00 - 5:00 PM • Nathier Fernández
 
@@ -51,10 +51,12 @@ El Processing Community Day en Bogotá es un evento de ....
 >Del Algorave al Reggaetron, con todo el flow del live coding. Una práctica traída desde las oscuras fiestas de hackers, y que juntos vamo’ a llevar a parisear. >Daremos un paseo por diferentes entornos del código sonoro en vivo y luego a oir cómo la compu maquinea y como el código se arrebata bata en Sonic Pi. Perreo >programado, beats y algorritmos. Conectando todo el dembow con Processing será un workshop para sandunguear. 
 >
 >
+>
 >> #### Ícaro López
 >> Icaro López de Mesa es diseñador interactivo, artista electrónico y músico, apasionado por la creación y experimentación sonora. Su trabajo se ha desarrollado tanto en el campo artístico como en el comercial y es el resultado de exploraciones que combinan arte, sonido, nuevos medios, música y educación. Actualmente realiza una maestría en medios digitales en la universidad de las artes en Bremen, Alemania, donde desarrolla máquinas sonoras. 
 
 ### Nombre del taller - Nathier Fernández
+>
 >
 >
 >
@@ -73,6 +75,7 @@ El Processing Community Day en Bogotá es un evento de ....
 >![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-2.png)|![imagen2](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-3.png)
 >----------|----------
 >![imagen3](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-4.gif)|![imagen4](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-5.gif)
+>
 >
 >
 >> #### Laura Junco
