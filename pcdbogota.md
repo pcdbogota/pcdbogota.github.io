@@ -59,7 +59,7 @@ El Processing Community Day en Bogotá es un evento de ....
 >
 >
 >
->> ### Nathier Fernández
+>> #### Nathier Fernández
 >> 
 
 ### Manipulacion de ventanas con Processing - Laura Junco
@@ -75,7 +75,7 @@ El Processing Community Day en Bogotá es un evento de ....
 >![imagen3](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-4.gif)|![imagen4](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-5.gif)
 >
 >
->> ### Laura Junco
+>> #### Laura Junco
 >> 
 
 ## Sobre el Processing Foundation
