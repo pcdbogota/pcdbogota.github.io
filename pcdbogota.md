@@ -17,7 +17,7 @@ El Processing Community Day en Bogotá es un evento de ....
 11:30 AM • [Cristian González](https://tangibleinteraction.com/)
 
 ### Tarde
-1:00 - 3:00 PM • Ícaro López
+1:00 - 3:00 PM • [Ícaro López](https://co.linkedin.com/in/icaro-lópez-de-mesa-moyano-0b14139b)
 
 3:00 - 5:00 PM • Nathier Fernández
 
