@@ -43,7 +43,7 @@ Con 8 años de experiencia en la industria creativa mi trabajo se enfoca al dise
 
 ![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-2.jpg)|![imagen2](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-3.jpg)
 ----------|----------
-![imagen3](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-4.jpg)|![imagen4](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-5.jpg)
+![imagen3](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-4.png)|![imagen4](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-5.jpg)
 
 ## Sobre los talleres
 
