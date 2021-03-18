@@ -50,12 +50,17 @@ El Processing Community Day en Bogotá es un evento de ....
 >
 >Del Algorave al Reggaetron, con todo el flow del live coding. Una práctica traída desde las oscuras fiestas de hackers, y que juntos vamo’ a llevar a parisear. >Daremos un paseo por diferentes entornos del código sonoro en vivo y luego a oir cómo la compu maquinea y como el código se arrebata bata en Sonic Pi. Perreo >programado, beats y algorritmos. Conectando todo el dembow con Processing será un workshop para sandunguear. 
 >
+>
 >> #### Ícaro López
 >> Icaro López de Mesa es diseñador interactivo, artista electrónico y músico, apasionado por la creación y experimentación sonora. Su trabajo se ha desarrollado tanto en el campo artístico como en el comercial y es el resultado de exploraciones que combinan arte, sonido, nuevos medios, música y educación. Actualmente realiza una maestría en medios digitales en la universidad de las artes en Bremen, Alemania, donde desarrolla máquinas sonoras. 
 
 ### Nombre del taller - Nathier Fernández
 >
 >
+>
+>
+>> ### Nathier Fernández
+>> 
 
 ### Manipulacion de ventanas con Processing - Laura Junco
 >
@@ -68,10 +73,13 @@ El Processing Community Day en Bogotá es un evento de ....
 >![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-2.png)|![imagen2](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-3.png)
 >----------|----------
 >![imagen3](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-4.gif)|![imagen4](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-5.gif)
-
+>
+>
+>> ### Laura Junco
+>> 
 
 ## Sobre el Processing Foundation
 
-[Processing](https://processing.org/) es un lenguaje de programación y entorno de desarrollo de código abierto que busca la enseñanza y producción de proyectos interativos en el contexto de las artes visuales, creado por Casey Reas y Ben Fry a comienzos del siglo 21. Este lenguaje se basa en Java pero utiliza sintaxis simplificadas y gráficas, trabajando como una herramienta clave para artistas, diseñadores y otras disciplinas ajenas a la programación que buscan aprender las bases de programación con muestras visuales de la información.
-
-[El Processing Foundation](https://processingfoundation.org) fue fundado en el 2012 con el objetivo de promover la alfabetización de software dentro de las artes visuales y los campos relacionados con tecnologías. El centro de su filosofía y política es un concepto conocido como FLOSS (Free, Libre, Open Source Software) ya que ven el Software como un medio que conecta el pensamiento con el hacer, y por esta razón deberia ser de gratis acceso. Ademas, afirman que aprender a programar no se trata unicamente de adquirir ciertas habilidades sino de tener un proceso creativo y exploratorio, por lo que debe ser accesible a todos.
+>[Processing](https://processing.org/) es un lenguaje de programación y entorno de desarrollo de código abierto que busca la enseñanza y producción de proyectos interativos en el contexto de las artes visuales, creado por Casey Reas y Ben Fry a comienzos del siglo 21. Este lenguaje se basa en Java pero utiliza sintaxis simplificadas y gráficas, trabajando como una herramienta clave para artistas, diseñadores y otras disciplinas ajenas a la programación que buscan aprender las bases de programación con muestras visuales de la información.
+>
+>[El Processing Foundation](https://processingfoundation.org) fue fundado en el 2012 con el objetivo de promover la alfabetización de software dentro de las artes visuales y los campos relacionados con tecnologías. El centro de su filosofía y política es un concepto conocido como FLOSS (Free, Libre, Open Source Software) ya que ven el Software como un medio que conecta el pensamiento con el hacer, y por esta razón deberia ser de gratis acceso. Ademas, afirman que aprender a programar no se trata unicamente de adquirir ciertas habilidades sino de tener un proceso creativo y exploratorio, por lo que debe ser accesible a todos.
