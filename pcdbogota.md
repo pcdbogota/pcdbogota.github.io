@@ -40,7 +40,7 @@ El Processing Community Day en Bogotá es un evento de ....
 
 ## Sobre los talleres
 
-### Introducción al Neoperreo Algorítmico - Ícaro López
+### > Introducción al Neoperreo Algorítmico - Ícaro López
 
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Icaro-1.png"> 
