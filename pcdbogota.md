@@ -35,17 +35,17 @@ Este día tiene como objetivo promover el uso de herramientas digitales e incent
 
 ### Cristian González
 
-![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-1.jpg)
-
-Como Ingeniero electrónico y desarrollador encuentro en la combinación entre arte, ciencia  y tecnología un escenario con el potencial  ideal para explorar la interacción humano-máquina mediante la creación de experiencias significativas diseñadas desde un enfoque centrado en el humano.
-
-Actualmente basado en Vancouver, trabajo como arquitecto de soluciones para Tangible un estudio de arte y diseño, dedicado a la creación de experiencias y productos que reúnen y  conectan a las personas invitandolas a vivir el momento conectadas con sus sentidos y el entorno.
-
-Con 8 años de experiencia en la industria creativa mi trabajo se enfoca al diseño, desarrollo e implementación de sistemas/instalaciones multimedia e interactivas que se caracterizan por integrar elementos como la creación de gráficos y contenido generativo en tiempo real, videojuegos, realidad mixta, mapping, live act, iluminación, computación física y diseño electrónico a la medida.
-
-![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-2.jpg)|![imagen2](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-3.jpg)
-----------|----------
-![imagen3](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-4.png)|![imagen4](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-5.jpg)
+>![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-1.jpg)
+>
+>Como Ingeniero electrónico y desarrollador encuentro en la combinación entre arte, ciencia  y tecnología un escenario con el potencial  ideal para explorar la interacción humano-máquina mediante la creación de experiencias significativas diseñadas desde un enfoque centrado en el humano.
+>
+>Actualmente basado en Vancouver, trabajo como arquitecto de soluciones para Tangible un estudio de arte y diseño, dedicado a la creación de experiencias y productos que reúnen y  conectan a las personas invitandolas a vivir el momento conectadas con sus sentidos y el entorno.
+>
+>Con 8 años de experiencia en la industria creativa mi trabajo se enfoca al diseño, desarrollo e implementación de sistemas/instalaciones multimedia e interactivas que se caracterizan por integrar elementos como la creación de gráficos y contenido generativo en tiempo real, videojuegos, realidad mixta, mapping, live act, iluminación, computación física y diseño electrónico a la medida.
+>
+>![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-2.jpg)|![imagen2](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-3.jpg)
+>----------|----------
+>![imagen3](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-4.png)|![imagen4](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-5.jpg)
 
 ## Sobre los talleres
 
