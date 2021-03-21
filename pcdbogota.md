@@ -22,7 +22,7 @@ Este día tiene como objetivo promover el uso de herramientas digitales e incent
 
 ### Talleres
 
-1:00 - 3:00 PM • [Introducción al Neoperreo Algorítmico](#-Introducción-al-Neoperreo-Algorítmico---Ícaro-López) ~ [Ícaro López](https://co.linkedin.com/in/icaro-lópez-de-mesa-moyano-0b14139b)
+1:00 - 3:00 PM • [Introducción al Neoperreo Algorítmico](#-Introducción-al-Neoperreo-Algorítmico) ~ [Ícaro López](https://co.linkedin.com/in/icaro-lópez-de-mesa-moyano-0b14139b)
 
 3:00 - 5:00 PM • Nathier Fernández
 
@@ -54,7 +54,7 @@ Con 8 años de experiencia en la industria creativa mi trabajo se enfoca al dise
 
 ## Talleres
 
-### Introducción al Neoperreo Algorítmico - Ícaro López
+### Introducción al Neoperreo Algorítmico
 
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Icaro-1.png"> 
