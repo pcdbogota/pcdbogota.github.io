@@ -1,17 +1,16 @@
-# PROCESSING COMMUNITY DAY BOGOTÁ
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/PCDbog.gif"> 
 </p>
 
+# PROCESSING COMMUNITY DAY BOGOTÁ
 
-## Descripción del evento
 El [Processing Community Day](https://www.pcdaarhus.net/) es una iniciativa mundial impulsada por el Processing Fundation para celebrar el arte, el código y la diversidad. Actualmente este evento involucra a más de 30 ciudades del mundo, tales como New York, Sao Paulo, Toronto, London, Madrid, entre otros.
 Este día tiene como objetivo promover el uso de herramientas digitales e incentivar el interés de la comunidad en la creación visual a través de la programación. Se promueve un dialogo en donde se exponen diversas formas de trabajar y pensar con el software, así como se comparten ideas en desarrollo y proyectos terminados, impulsando a aquellas personas interesadas en el área a aprender y a crear a partir de código.
 
 ## Cronograma Martes 06/04/2021
 
-### Mañana - Charlas
+### Conferencias
 
 9:00 AM • Bienvenida e introducción
 
@@ -21,7 +20,8 @@ Este día tiene como objetivo promover el uso de herramientas digitales e incent
 
 11:30 AM • [Cristian González](https://tangibleinteraction.com/)
 
-### Tarde
+### Talleres
+
 1:00 - 3:00 PM • Introducción al Neoperreo Algorítmico ~ [Ícaro López](https://co.linkedin.com/in/icaro-lópez-de-mesa-moyano-0b14139b)
 
 3:00 - 5:00 PM • Nathier Fernández
@@ -40,63 +40,63 @@ Este día tiene como objetivo promover el uso de herramientas digitales e incent
 
 ### Cristian González
 
->![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-1.jpg)
->
->Como Ingeniero electrónico y desarrollador encuentro en la combinación entre arte, ciencia  y tecnología un escenario con el potencial  ideal para explorar la interacción humano-máquina mediante la creación de experiencias significativas diseñadas desde un enfoque centrado en el humano.
->
->Actualmente basado en Vancouver, trabajo como arquitecto de soluciones para Tangible un estudio de arte y diseño, dedicado a la creación de experiencias y productos que reúnen y  conectan a las personas invitandolas a vivir el momento conectadas con sus sentidos y el entorno.
->
->Con 8 años de experiencia en la industria creativa mi trabajo se enfoca al diseño, desarrollo e implementación de sistemas/instalaciones multimedia e interactivas que se caracterizan por integrar elementos como la creación de gráficos y contenido generativo en tiempo real, videojuegos, realidad mixta, mapping, live act, iluminación, computación física y diseño electrónico a la medida.
->
->![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-2.jpg)|![imagen2](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-3.jpg)
->----------|----------
->![imagen3](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-4.png)|![imagen4](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-5.jpg)
+![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-1.jpg)
+
+Como Ingeniero electrónico y desarrollador encuentro en la combinación entre arte, ciencia  y tecnología un escenario con el potencial  ideal para explorar la interacción humano-máquina mediante la creación de experiencias significativas diseñadas desde un enfoque centrado en el humano.
+
+Actualmente basado en Vancouver, trabajo como arquitecto de soluciones para Tangible un estudio de arte y diseño, dedicado a la creación de experiencias y productos que reúnen y  conectan a las personas invitandolas a vivir el momento conectadas con sus sentidos y el entorno.
+
+Con 8 años de experiencia en la industria creativa mi trabajo se enfoca al diseño, desarrollo e implementación de sistemas/instalaciones multimedia e interactivas que se caracterizan por integrar elementos como la creación de gráficos y contenido generativo en tiempo real, videojuegos, realidad mixta, mapping, live act, iluminación, computación física y diseño electrónico a la medida.
+
+![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-2.jpg)|![imagen2](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-3.jpg)
+----------|----------
+![imagen3](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-4.png)|![imagen4](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-5.jpg)
 
 ## Sobre los talleres
 
 ### Introducción al Neoperreo Algorítmico - Ícaro López
->
-><p align="center" width="100%">
->    <img width="50%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Icaro-1.png"> 
-></p>
->
-> ***¡Vamo’ al garete con las variables!***
->
->Del Algorave al Reggaetron, con todo el flow del live coding. Una práctica traída desde las oscuras fiestas de hackers, y que juntos vamo’ a llevar a parisear. >Daremos un paseo por diferentes entornos del código sonoro en vivo y luego a oir cómo la compu maquinea y como el código se arrebata bata en Sonic Pi. Perreo >programado, beats y algorritmos. Conectando todo el dembow con Processing será un workshop para sandunguear. 
->
->
->
->> #### Ícaro López
->> Icaro López de Mesa es diseñador interactivo, artista electrónico y músico, apasionado por la creación y experimentación sonora. Su trabajo se ha desarrollado tanto en el campo artístico como en el comercial y es el resultado de exploraciones que combinan arte, sonido, nuevos medios, música y educación. Actualmente realiza una maestría en medios digitales en la universidad de las artes en Bremen, Alemania, donde desarrolla máquinas sonoras. 
+
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Icaro-1.png"> 
+</p>
+
+ ***¡Vamo’ al garete con las variables!***
+
+Del Algorave al Reggaetron, con todo el flow del live coding. Una práctica traída desde las oscuras fiestas de hackers, y que juntos vamo’ a llevar a parisear. Daremos un paseo por diferentes entornos del código sonoro en vivo y luego a oir cómo la compu maquinea y como el código se arrebata bata en Sonic Pi. Perreo programado, beats y algorritmos. Conectando todo el dembow con Processing será un workshop para sandunguear. 
+
+
+
+ #### Ícaro López
+Icaro López de Mesa es diseñador interactivo, artista electrónico y músico, apasionado por la creación y experimentación sonora. Su trabajo se ha desarrollado tanto en el campo artístico como en el comercial y es el resultado de exploraciones que combinan arte, sonido, nuevos medios, música y educación. Actualmente realiza una maestría en medios digitales en la universidad de las artes en Bremen, Alemania, donde desarrolla máquinas sonoras. 
 
 ### Nombre del taller - Nathier Fernández
->
->
->
->
->
->> #### Nathier Fernández
->> 
+
+
+
+
+
+ #### Nathier Fernández
+ 
 
 ### Manipulacion de ventanas con Processing - Laura Junco
->
-><p align="center" width="100%">
->    <img width="50%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-1.gif"> 
-></p>
->
->La ventana es una de las metáforas más utilizadas en la informática. Estos contenedores rectangulares, permiten la entrada y salida de datos a nuestras máquinas y, a pesar de pasar desapercibidas la mayor parte del tiempo, son posiblemente la interfaz gráfica más utilizada a diario. La mayoría de las ventanas pueden ser redimensionadas, movidas, ocultadas, restauradas, y cerradas a voluntad. En este taller abordaremos las ventanas como elementos de interacción. Utilizando Processing aprenderemos a manipular los atributos subyacentes de las ventanas de nuestros sistemas operativos para usos creativos.
->
->![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-2.png)|![imagen2](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-3.png)
->----------|----------
->![imagen3](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-4.gif)|![imagen4](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-5.gif)
->
->
->
->> #### Laura Junco
->> 
+
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-1.gif"> 
+</p>
+
+La ventana es una de las metáforas más utilizadas en la informática. Estos contenedores rectangulares, permiten la entrada y salida de datos a nuestras máquinas y, a pesar de pasar desapercibidas la mayor parte del tiempo, son posiblemente la interfaz gráfica más utilizada a diario. La mayoría de las ventanas pueden ser redimensionadas, movidas, ocultadas, restauradas, y cerradas a voluntad. En este taller abordaremos las ventanas como elementos de interacción. Utilizando Processing aprenderemos a manipular los atributos subyacentes de las ventanas de nuestros sistemas operativos para usos creativos.
+
+![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-2.png)|![imagen2](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-3.png)
+----------|----------
+![imagen3](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-4.gif)|![imagen4](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-5.gif)
+
+
+ #### Laura Junco
+Laura Junco es diseñadora de medios interactivos. Su trabajo se basa en la creación de dispositivos y experiencias digitales que exploran las relaciones cotidianas entre personas y dispositivos tecnológicos. Ha trabajado en el Centro Nacional de Memoria Histórica creando productos digitales que contribuyen a la protección y exigibilidad de derechos humanos en Colombia y, actualmente es diseñadora y desarrolladora de visualizaciones de datos en La Comisión de la Verdad de Colombia.
+
 
 ## Sobre el Processing Foundation
 
->[Processing](https://processing.org/) es un lenguaje de programación y entorno de desarrollo de código abierto que busca la enseñanza y producción de proyectos interativos en el contexto de las artes visuales, creado por Casey Reas y Ben Fry a comienzos del siglo 21. Este lenguaje se basa en Java pero utiliza sintaxis simplificadas y gráficas, trabajando como una herramienta clave para artistas, diseñadores y otras disciplinas ajenas a la programación que buscan aprender las bases de programación con muestras visuales de la información.
->
->[El Processing Foundation](https://processingfoundation.org) fue fundado en el 2012 con el objetivo de promover la alfabetización de software dentro de las artes visuales y los campos relacionados con tecnologías. El centro de su filosofía y política es un concepto conocido como FLOSS (Free, Libre, Open Source Software) ya que ven el Software como un medio que conecta el pensamiento con el hacer, y por esta razón deberia ser de gratis acceso. Ademas, afirman que aprender a programar no se trata unicamente de adquirir ciertas habilidades sino de tener un proceso creativo y exploratorio, por lo que debe ser accesible a todos.
+[Processing](https://processing.org/) es un lenguaje de programación y entorno de desarrollo de código abierto que busca la enseñanza y producción de proyectos interativos en el contexto de las artes visuales, creado por Casey Reas y Ben Fry a comienzos del siglo 21. Este lenguaje se basa en Java pero utiliza sintaxis simplificadas y gráficas, trabajando como una herramienta clave para artistas, diseñadores y otras disciplinas ajenas a la programación que buscan aprender las bases de programación con muestras visuales de la información.
+
+[El Processing Foundation](https://processingfoundation.org) fue fundado en el 2012 con el objetivo de promover la alfabetización de software dentro de las artes visuales y los campos relacionados con tecnologías. El centro de su filosofía y política es un concepto conocido como FLOSS (Free, Libre, Open Source Software) ya que ven el Software como un medio que conecta el pensamiento con el hacer, y por esta razón deberia ser de gratis acceso. Ademas, afirman que aprender a programar no se trata unicamente de adquirir ciertas habilidades sino de tener un proceso creativo y exploratorio, por lo que debe ser accesible a todos.
