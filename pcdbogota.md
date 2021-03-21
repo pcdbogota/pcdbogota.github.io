@@ -10,7 +10,7 @@ Este día tiene como objetivo promover el uso de herramientas digitales e incent
 
 ## Cronograma Martes 06/04/2021
 
-### Conferencias
+### Presentaciones
 
 9:00 AM • Bienvenida e introducción
 
@@ -22,7 +22,7 @@ Este día tiene como objetivo promover el uso de herramientas digitales e incent
 
 ### Talleres
 
-1:00 - 3:00 PM • Introducción al Neoperreo Algorítmico ~ [Ícaro López](https://co.linkedin.com/in/icaro-lópez-de-mesa-moyano-0b14139b)
+1:00 - 3:00 PM • [Introducción al Neoperreo Algorítmico](#-Introducción-al-Neoperreo-Algorítmico---Ícaro-López) ~ [Ícaro López](https://co.linkedin.com/in/icaro-lópez-de-mesa-moyano-0b14139b)
 
 3:00 - 5:00 PM • Nathier Fernández
 
@@ -52,7 +52,7 @@ Con 8 años de experiencia en la industria creativa mi trabajo se enfoca al dise
 ----------|----------
 ![imagen3](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-4.png)|![imagen4](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-5.jpg)
 
-## Sobre los talleres
+## Talleres
 
 ### Introducción al Neoperreo Algorítmico - Ícaro López
 
@@ -66,7 +66,7 @@ Del Algorave al Reggaetron, con todo el flow del live coding. Una práctica tra�
 
 
 
- #### Ícaro López
+ #### ***Ícaro López***
 Icaro López de Mesa es diseñador interactivo, artista electrónico y músico, apasionado por la creación y experimentación sonora. Su trabajo se ha desarrollado tanto en el campo artístico como en el comercial y es el resultado de exploraciones que combinan arte, sonido, nuevos medios, música y educación. Actualmente realiza una maestría en medios digitales en la universidad de las artes en Bremen, Alemania, donde desarrolla máquinas sonoras. 
 
 ### Nombre del taller - Nathier Fernández
@@ -91,7 +91,7 @@ La ventana es una de las metáforas más utilizadas en la informática. Estos co
 ![imagen3](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-4.gif)|![imagen4](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-5.gif)
 
 
- #### Laura Junco
+ #### ***Laura Junco***
 Laura Junco es diseñadora de medios interactivos. Su trabajo se basa en la creación de dispositivos y experiencias digitales que exploran las relaciones cotidianas entre personas y dispositivos tecnológicos. Ha trabajado en el Centro Nacional de Memoria Histórica creando productos digitales que contribuyen a la protección y exigibilidad de derechos humanos en Colombia y, actualmente es diseñadora y desarrolladora de visualizaciones de datos en La Comisión de la Verdad de Colombia.
 
 
