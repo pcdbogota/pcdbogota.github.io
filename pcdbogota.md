@@ -33,6 +33,7 @@
 
 <br />
 <br />
+
 ## Conferencistas
 
 ### [Maria Paulina Gutierrez](https://about.me/mariapaulina)
@@ -78,6 +79,7 @@ Con 8 años de experiencia en la industria creativa mi trabajo se enfoca al dise
 
 <br />
 <br />
+
 ## Talleres
 
 ### Introducción al Neoperreo Algorítmico
@@ -150,6 +152,7 @@ Laura Junco es diseñadora de medios interactivos. Su trabajo se basa en la crea
 
 <br />
 <br />
+
 ## Sobre el Processing Foundation
 
 [Processing](https://processing.org/) es un lenguaje de programación y entorno de desarrollo de código abierto que busca la enseñanza y producción de proyectos interativos en el contexto de las artes visuales, creado por Casey Reas y Ben Fry a comienzos del siglo 21. Este lenguaje se basa en Java pero utiliza sintaxis simplificadas y gráficas, trabajando como una herramienta clave para artistas, diseñadores y otras disciplinas ajenas a la programación que buscan aprender las bases de programación con muestras visuales de la información.
