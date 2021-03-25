@@ -35,8 +35,6 @@
 
 ### [Maria Paulina Gutierrez](https://about.me/mariapaulina)
 
-//![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/MariaPaulina-1.jpg)
-
 <p align="left" width="100%">
     <img width="50%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/MariaPaulina-1.jpg"> 
 </p>
@@ -45,7 +43,7 @@ Máster en Diseño y Creación Interactiva en el campo de los textiles interacti
 
 ![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/MariaPaulina-2.gif)|![imagen2](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/MariaPaulina-3.png)
 ----------|----------
-![imagen3](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/MariaPaulina-4.gif)|![imagen4](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/MariaPaulina-5.gif)
+![imagen3](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/MariaPaulina-4.gif)|![imagen4](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/MariaPaulina-5.png)
 
 ### [Francesca Rodriguez](http://www.franrodriguezsawaya.com/)
 
