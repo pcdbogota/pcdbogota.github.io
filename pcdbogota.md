@@ -103,3 +103,7 @@ Laura Junco es diseñadora de medios interactivos. Su trabajo se basa en la crea
 [Processing](https://processing.org/) es un lenguaje de programación y entorno de desarrollo de código abierto que busca la enseñanza y producción de proyectos interativos en el contexto de las artes visuales, creado por Casey Reas y Ben Fry a comienzos del siglo 21. Este lenguaje se basa en Java pero utiliza sintaxis simplificadas y gráficas, trabajando como una herramienta clave para artistas, diseñadores y otras disciplinas ajenas a la programación que buscan aprender las bases de programación con muestras visuales de la información.
 
 [El Processing Foundation](https://processingfoundation.org) fue fundado en el 2012 con el objetivo de promover la alfabetización de software dentro de las artes visuales y los campos relacionados con tecnologías. El centro de su filosofía y política es un concepto conocido como FLOSS (Free, Libre, Open Source Software) ya que ven el Software como un medio que conecta el pensamiento con el hacer, y por esta razón deberia ser de gratis acceso. Ademas, afirman que aprender a programar no se trata unicamente de adquirir ciertas habilidades sino de tener un proceso creativo y exploratorio, por lo que debe ser accesible a todos.
+
+
+| Organiza      |  | ![LOGO](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-4.gif)     |
+| :---        |    :----:   |          ---: |
