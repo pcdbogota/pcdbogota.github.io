@@ -92,7 +92,7 @@ Del Algorave al Reggaetron, con todo el flow del live coding. Una práctica tra�
 
 
 
- #### Ícaro López
+ #### [Ícaro López](https://www.icskompany.com/)
  
   <p align="left" width="100%">
     <img width="20%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Icaro-Foto.jpeg"> 
@@ -123,7 +123,7 @@ Por medio de manifestaciones digitales contemporáneas, generaremos un espacio a
 
     
     
- #### Nathier Fernández
+ #### [Nathier Fernández](https://www.nathier.com/)
  
  <p align="left" width="100%">
     <img width="20%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Nathier-Foto.jpeg"> 
