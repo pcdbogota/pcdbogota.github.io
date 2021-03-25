@@ -82,7 +82,7 @@ Con 8 años de experiencia en la industria creativa mi trabajo se enfoca al dise
     <img width="50%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Icaro-1.png"> 
 </p>
 
- ***¡Vamo’ al garete con las variables!***
+ *¡Vamo’ al garete con las variables!*
 
 Del Algorave al Reggaetron, con todo el flow del live coding. Una práctica traída desde las oscuras fiestas de hackers, y que juntos vamo’ a llevar a parisear. Daremos un paseo por diferentes entornos del código sonoro en vivo y luego a oir cómo la compu maquinea y como el código se arrebata bata en Sonic Pi. Perreo programado, beats y algorritmos. Conectando todo el dembow con Processing será un workshop para sandunguear. 
 
