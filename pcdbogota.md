@@ -88,17 +88,23 @@ Por medio de manifestaciones digitales contemporáneas, generaremos un espacio a
 
 <div align="center"> 
     
-    **“Any sufficiently advanced technology is indistinguishable from magic.”** 
+    “Any sufficiently advanced technology is indistinguishable from magic.”
     Clarke's third law.
 
+![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Nathier-1.png)|![imagen2](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Nathier-2.png)
+----------|----------
 
+*No hay necesidad de tener conocimiento previo en programación, ayudará eso sí, pero si el código glitchea culparemos al más allá, para todo lo demás podemos prenderle una vela a Ada Lovelace.
+
+*Opcional: [Lectura antes del taller.](https://www.vice.com/en/article/wnxpxm/why-we-still-practice-superstitious-rituals-with-our-technology)
 
 
 <div align="left">
     
     
  #### Nathier Fernández
- 
+Nathier Fernández es una diseñadora y artista bogotana cuya practica multidisciplinaria se enfoca en la creacion de espacios, objetos y experiencias; en donde la tecnologia actua como una entidad mediadora y de transcipcion sobre las posibles interacciones humanas y no-humanas. Su investigacion tiene un especial interes en la interseción de los sistemas biologicos y artificiales. 
+
 
 ### Manipulacion de ventanas con Processing
 
