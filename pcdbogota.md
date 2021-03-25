@@ -47,7 +47,16 @@ Máster en Diseño y Creación Interactiva en el campo de los textiles interacti
 
 ### [Francesca Rodriguez](http://www.franrodriguezsawaya.com/)
 
-.....
+<p align="left" width="100%">
+    <img width="50%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Francesca-1.jpg"> 
+</p>
+
+info info info
+
+![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Francesca-2.jpg)|![imagen2](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Francesca-3.jpg)
+----------|----------
+![imagen3](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Francesca-4.jpg)|![imagen4](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Francesca-5.jpg)
+
 
 ### [Cristian González](https://tangibleinteraction.com/)
 
