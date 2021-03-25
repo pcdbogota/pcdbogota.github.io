@@ -105,7 +105,7 @@ Por medio de manifestaciones digitales contemporáneas, generaremos un espacio a
 <div align="center"> 
     
     “Any sufficiently advanced technology is indistinguishable from magic.”
-    Clarke's third law.
+    - Clarke's third law.
 
 ![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Nathier-1.png)|![imagen2](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Nathier-2.png)
 ----------|----------
