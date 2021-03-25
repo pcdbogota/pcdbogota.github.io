@@ -27,7 +27,7 @@
 
 1:00 - 3:00 PM • [Introducción al Neoperreo Algorítmico](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/pcdbogota.md#introducci%C3%B3n-al-neoperreo-algor%C3%ADtmico)
 
-3:00 - 5:00 PM • Nathier Fernández
+3:00 - 5:00 PM • [Rituales Digitales]
 
 5:00 - 7:00 PM • [Manipulacion de ventanas con Processing](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/pcdbogota.md#manipulacion-de-ventanas-con-processing)
 
@@ -80,7 +80,15 @@ Del Algorave al Reggaetron, con todo el flow del live coding. Una práctica tra�
  #### ***Ícaro López***
 Icaro López de Mesa es diseñador interactivo, artista electrónico y músico, apasionado por la creación y experimentación sonora. Su trabajo se ha desarrollado tanto en el campo artístico como en el comercial y es el resultado de exploraciones que combinan arte, sonido, nuevos medios, música y educación. Actualmente realiza una maestría en medios digitales en la universidad de las artes en Bremen, Alemania, donde desarrolla máquinas sonoras. 
 
-### Nombre del taller - Nathier Fernández
+### Rituales Digitales
+
+En este taller exploraremos prácticas especulativas ligadas a rituales, magia, mitología y supersticiones desde un punto de vista cultural, filosófico y/o religiosos. 
+
+Por medio de manifestaciones digitales contemporáneas, generaremos un espacio artificial y surrealista que se materialice a través de algoritmos. Si bien este no es un taller técnico, veremos como crear ejemplos básicos que nos permitan dar unos primeros acercamientos a escenarios ficticios, simbólicos y creativos.
+
+<div align="center"> “Any sufficiently advanced technology is indistinguishable from magic.” 
+
+<div align="center"> Clarke's third law.
 
 
 
