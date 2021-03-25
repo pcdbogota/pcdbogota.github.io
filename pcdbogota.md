@@ -17,7 +17,8 @@
 9:30 AM • [Maria Paulina Gutierrez](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/pcdbogota.md#maria-paulina-gutierrez)
 https://about.me/mariapaulina
 
-10:30 AM • [Francesca Rodriguez](http://www.franrodriguezsawaya.com/)
+10:30 AM • [Francesca Rodriguez](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/pcdbogota.md#francesca-rodriguez)
+http://www.franrodriguezsawaya.com/
 
 11:30 AM • [Cristian González](https://tangibleinteraction.com/)
 
