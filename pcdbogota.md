@@ -104,7 +104,9 @@ Laura Junco es diseñadora de medios interactivos. Su trabajo se basa en la crea
 
 [El Processing Foundation](https://processingfoundation.org) fue fundado en el 2012 con el objetivo de promover la alfabetización de software dentro de las artes visuales y los campos relacionados con tecnologías. El centro de su filosofía y política es un concepto conocido como FLOSS (Free, Libre, Open Source Software) ya que ven el Software como un medio que conecta el pensamiento con el hacer, y por esta razón deberia ser de gratis acceso. Ademas, afirman que aprender a programar no se trata unicamente de adquirir ciertas habilidades sino de tener un proceso creativo y exploratorio, por lo que debe ser accesible a todos.
 
-
+/
+/
+/
 
 
 | **Organiza**      |  [<div align="right"> ![logo](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Logo-ARQDIS.png)](https://arqdis.uniandes.edu.co/) |
