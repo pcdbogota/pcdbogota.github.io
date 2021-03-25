@@ -117,7 +117,7 @@ Por medio de manifestaciones digitales contemporáneas, generaremos un espacio a
  #### Nathier Fernández
  
  <p align="left" width="100%">
-    <img width="40%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Nathier-Foto.jpeg"> 
+    <img width="20%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Nathier-Foto.jpeg"> 
 </p>
 
 Nathier Fernández es una diseñadora y artista bogotana cuya practica multidisciplinaria se enfoca en la creacion de espacios, objetos y experiencias; en donde la tecnologia actua como una entidad mediadora y de transcipcion sobre las posibles interacciones humanas y no-humanas. Su investigacion tiene un especial interes en la interseción de los sistemas biologicos y artificiales. 
