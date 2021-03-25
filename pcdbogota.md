@@ -35,7 +35,11 @@
 
 ### [Maria Paulina Gutierrez](https://about.me/mariapaulina)
 
-![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/MariaPaulina-1.jpg)
+//![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/MariaPaulina-1.jpg)
+
+<p align="left" width="100%">
+    <img width="50%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/MariaPaulina-1.jpg"> 
+</p>
 
 Máster en Diseño y Creación Interactiva en el campo de los textiles interactivos, diseño urbano y el medio ambiente. Profundamente talentosa y recursiva en la práctica de la moda con 10 años de experiencia en experimentación con diseño, fabricación y restauración de prendas de vestir, centrada en los métodos sostenibles de creación de patrones de ropa y técnicas innovadoras de la moda thinker maker bien establecidas en el marco de la ciencia, la tecnología y el diseño ecológico global y local.
 
