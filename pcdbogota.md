@@ -22,7 +22,7 @@
 
 ### Talleres
 
-1:00 - 3:00 PM • [Introducción al Neoperreo Algorítmico](###_Introducción_al_Neoperreo_Algorítmico)
+1:00 - 3:00 PM • [Introducción al Neoperreo Algorítmico](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/pcdbogota.md#introducci%C3%B3n-al-neoperreo-algor%C3%ADtmico)
 
 3:00 - 5:00 PM • Nathier Fernández
 
