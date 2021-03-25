@@ -51,7 +51,9 @@ Máster en Diseño y Creación Interactiva en el campo de los textiles interacti
     <img width="30%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Francesca-1.jpg"> 
 </p>
 
-info info info
+Mis trabajos combinan mis habilidades y experiencia como productora creativa y tecnóloga. Me gradué del Programa de Telecomunicaciones Interactivas en NYU. Antes de eso, trabajé 7 años como productora de videos y contenido, donde guié proyectos desde la ideación hasta la ejecución.
+
+También he estado explorando los vínculos entre el tejido y el pensamiento computacional, creando piezas que traducen historias orales en tejidos físicos que se han exhibido en el Festival New Latin Wave en Nueva York y el Festival Internacional de Arte Contemporáneo en Perú. Me desempeñé como investigadora en el Laboratorio de Tecnología en BF + DA en la Universidad de Pratt y también he dictado diferentes talleres sobre la intersección del tejido y la codificación, en lugares como Pioneer Works, Currents New Media Festival y el Museo de Brooklyn. Co-comisioné y produje la exposición “Beyond Punch Cards”, que reunió a artistas que desafían las percepciones comunes del tejido y la codificación, que tuvo lugar en Santa Fe, Nuevo México, en junio del año pasado.
 
 ![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Francesca-2.jpg)|![imagen2](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Francesca-3.jpg)
 ----------|----------
