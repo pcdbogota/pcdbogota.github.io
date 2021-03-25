@@ -35,7 +35,7 @@
 
 ### [Maria Paulina Gutierrez](https://about.me/mariapaulina)
 
-......
+Máster en Diseño y Creación Interactiva en el campo de los textiles interactivos, diseño urbano y el medio ambiente. Profundamente talentosa y recursiva en la práctica de la moda con 10 años de experiencia en experimentación con diseño, fabricación y restauración de prendas de vestir, centrada en los métodos sostenibles de creación de patrones de ropa y técnicas innovadoras de la moda thinker maker bien establecidas en el marco de la ciencia, la tecnología y el diseño ecológico global y local.
 
 ### [Francesca Rodriguez](http://www.franrodriguezsawaya.com/)
 
