@@ -78,7 +78,7 @@ Icaro López de Mesa es diseñador interactivo, artista electrónico y músico, 
  #### Nathier Fernández
  
 
-### Manipulacion de ventanas con Processing - Laura Junco
+### Manipulacion de ventanas con Processing
 
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-1.gif"> 
