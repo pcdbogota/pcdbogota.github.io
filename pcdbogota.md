@@ -31,6 +31,8 @@
 
 5:00 - 7:00 PM • [Manipulacion de ventanas con Processing](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/pcdbogota.md#manipulacion-de-ventanas-con-processing)
 
+<br />
+<br />
 ## Conferencistas
 
 ### [Maria Paulina Gutierrez](https://about.me/mariapaulina)
@@ -74,6 +76,8 @@ Con 8 años de experiencia en la industria creativa mi trabajo se enfoca al dise
 ----------|----------
 ![imagen3](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-4.png)|![imagen4](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-5.jpg)
 
+<br />
+<br />
 ## Talleres
 
 ### Introducción al Neoperreo Algorítmico
@@ -144,7 +148,8 @@ La ventana es una de las metáforas más utilizadas en la informática. Estos co
  #### Laura Junco
 Laura Junco es diseñadora de medios interactivos. Su trabajo se basa en la creación de dispositivos y experiencias digitales que exploran las relaciones cotidianas entre personas y dispositivos tecnológicos. Ha trabajado en el Centro Nacional de Memoria Histórica creando productos digitales que contribuyen a la protección y exigibilidad de derechos humanos en Colombia y, actualmente es diseñadora y desarrolladora de visualizaciones de datos en La Comisión de la Verdad de Colombia.
 
-
+<br />
+<br />
 ## Sobre el Processing Foundation
 
 [Processing](https://processing.org/) es un lenguaje de programación y entorno de desarrollo de código abierto que busca la enseñanza y producción de proyectos interativos en el contexto de las artes visuales, creado por Casey Reas y Ben Fry a comienzos del siglo 21. Este lenguaje se basa en Java pero utiliza sintaxis simplificadas y gráficas, trabajando como una herramienta clave para artistas, diseñadores y otras disciplinas ajenas a la programación que buscan aprender las bases de programación con muestras visuales de la información.
