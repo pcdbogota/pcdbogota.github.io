@@ -22,11 +22,11 @@
 
 ### Talleres
 
-1:00 - 3:00 PM • [Introducción al Neoperreo Algorítmico](###-Introducción-al-Neoperreo-Algorítmico) ~ [Ícaro López](https://co.linkedin.com/in/icaro-lópez-de-mesa-moyano-0b14139b)
+1:00 - 3:00 PM • [Introducción al Neoperreo Algorítmico](### Introducción al Neoperreo Algorítmico)
 
 3:00 - 5:00 PM • Nathier Fernández
 
-5:00 - 7:00 PM • Manipulacion de ventanas con Processing ~ Laura Junco
+5:00 - 7:00 PM • Manipulacion de ventanas con Processing
 
 ## Sobre los conferencistas
 
