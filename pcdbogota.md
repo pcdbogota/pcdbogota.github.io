@@ -15,10 +15,10 @@
 9:00 AM • Bienvenida e introducción
 
 9:30 AM • [Maria Paulina Gutierrez](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/pcdbogota.md#maria-paulina-gutierrez)
-https://about.me/mariapaulina
+
 
 10:30 AM • [Francesca Rodriguez](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/pcdbogota.md#francesca-rodriguez)
-http://www.franrodriguezsawaya.com/
+
 
 11:30 AM • [Cristian González](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/pcdbogota.md#cristian-gonz%C3%A1lez)
 
@@ -31,13 +31,13 @@ http://www.franrodriguezsawaya.com/
 
 5:00 - 7:00 PM • [Manipulacion de ventanas con Processing](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/pcdbogota.md#manipulacion-de-ventanas-con-processing)
 
-## Sobre los conferencistas
+## Conferencistas
 
-### Maria Paulina Gutierrez
+### [Maria Paulina Gutierrez](https://about.me/mariapaulina)
 
 ......
 
-### Francesca Rodriguez
+### [Francesca Rodriguez](http://www.franrodriguezsawaya.com/)
 
 .....
 
