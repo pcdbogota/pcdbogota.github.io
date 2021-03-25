@@ -26,7 +26,7 @@
 
 3:00 - 5:00 PM • Nathier Fernández
 
-5:00 - 7:00 PM • Manipulacion de ventanas con Processing
+5:00 - 7:00 PM • [Manipulacion de ventanas con Processing](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/pcdbogota.md#manipulacion-de-ventanas-con-processing)
 
 ## Sobre los conferencistas
 
