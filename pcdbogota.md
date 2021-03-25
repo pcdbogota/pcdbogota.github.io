@@ -14,7 +14,8 @@
 
 9:00 AM • Bienvenida e introducción
 
-9:30 AM • [Maria Paulina Gutierrez](https://about.me/mariapaulina)
+9:30 AM • [Maria Paulina Gutierrez](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/pcdbogota.md#maria-paulina-gutierrez)
+https://about.me/mariapaulina
 
 10:30 AM • [Francesca Rodriguez](http://www.franrodriguezsawaya.com/)
 
