@@ -94,12 +94,13 @@ Por medio de manifestaciones digitales contemporáneas, generaremos un espacio a
 ![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Nathier-1.png)|![imagen2](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Nathier-2.png)
 ----------|----------
 
-*No hay necesidad de tener conocimiento previo en programación, ayudará eso sí, pero si el código glitchea culparemos al más allá, para todo lo demás podemos prenderle una vela a Ada Lovelace.
-
-*Opcional: [Lectura antes del taller.](https://www.vice.com/en/article/wnxpxm/why-we-still-practice-superstitious-rituals-with-our-technology)
-
-
 <div align="left">
+
+*No hay necesidad de tener conocimiento previo en programación, ayudará eso sí, pero si el código glitchea culparemos al más allá, para todo lo demás podemos prenderle una vela a Ada Lovelace.*
+
+*Opcional: [Lectura antes del taller.](https://www.vice.com/en/article/wnxpxm/why-we-still-practice-superstitious-rituals-with-our-technology)*
+
+
     
     
  #### Nathier Fernández
