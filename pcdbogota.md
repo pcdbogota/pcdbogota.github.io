@@ -22,7 +22,7 @@
 
 ### Talleres
 
-1:00 - 3:00 PM • [Introducción al Neoperreo Algorítmico](### Introducción al Neoperreo Algorítmico)
+1:00 - 3:00 PM • [Introducción al Neoperreo Algorítmico](###_Introducción_al_Neoperreo_Algorítmico)
 
 3:00 - 5:00 PM • Nathier Fernández
 
