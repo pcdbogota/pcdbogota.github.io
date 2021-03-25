@@ -27,7 +27,7 @@
 
 1:00 - 3:00 PM • [Introducción al Neoperreo Algorítmico](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/pcdbogota.md#introducci%C3%B3n-al-neoperreo-algor%C3%ADtmico)
 
-3:00 - 5:00 PM • [Rituales Digitales]
+3:00 - 5:00 PM • [Rituales Digitales](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/pcdbogota.md#rituales-digitales)
 
 5:00 - 7:00 PM • [Manipulacion de ventanas con Processing](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/pcdbogota.md#manipulacion-de-ventanas-con-processing)
 
@@ -86,14 +86,14 @@ En este taller exploraremos prácticas especulativas ligadas a rituales, magia, 
 
 Por medio de manifestaciones digitales contemporáneas, generaremos un espacio artificial y surrealista que se materialice a través de algoritmos. Si bien este no es un taller técnico, veremos como crear ejemplos básicos que nos permitan dar unos primeros acercamientos a escenarios ficticios, simbólicos y creativos.
 
-<div align="center"> “Any sufficiently advanced technology is indistinguishable from magic.” 
+<div align="center"> **“Any sufficiently advanced technology is indistinguishable from magic.”** 
 
 <div align="center"> Clarke's third law.
 
 
 
 
-
+<div align="left">
  #### Nathier Fernández
  
 
