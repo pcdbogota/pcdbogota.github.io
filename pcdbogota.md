@@ -20,7 +20,8 @@ https://about.me/mariapaulina
 10:30 AM • [Francesca Rodriguez](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/pcdbogota.md#francesca-rodriguez)
 http://www.franrodriguezsawaya.com/
 
-11:30 AM • [Cristian González](https://tangibleinteraction.com/)
+11:30 AM • [Cristian González](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/pcdbogota.md#cristian-gonz%C3%A1lez)
+
 
 ### Talleres
 
@@ -40,7 +41,7 @@ http://www.franrodriguezsawaya.com/
 
 .....
 
-### Cristian González
+### [Cristian González](https://tangibleinteraction.com/)
 
 ![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-1.jpg)
 
