@@ -32,7 +32,6 @@
 5:00 - 7:00 PM • [Manipulacion de ventanas con Processing](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/pcdbogota.md#manipulacion-de-ventanas-con-processing)
 
 <br />
-<br />
 
 ## Conferencistas
 
@@ -77,7 +76,6 @@ Con 8 años de experiencia en la industria creativa mi trabajo se enfoca al dise
 ----------|----------
 ![imagen3](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-4.png)|![imagen4](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-5.jpg)
 
-<br />
 <br />
 
 ## Talleres
@@ -150,7 +148,6 @@ La ventana es una de las metáforas más utilizadas en la informática. Estos co
  #### Laura Junco
 Laura Junco es diseñadora de medios interactivos. Su trabajo se basa en la creación de dispositivos y experiencias digitales que exploran las relaciones cotidianas entre personas y dispositivos tecnológicos. Ha trabajado en el Centro Nacional de Memoria Histórica creando productos digitales que contribuyen a la protección y exigibilidad de derechos humanos en Colombia y, actualmente es diseñadora y desarrolladora de visualizaciones de datos en La Comisión de la Verdad de Colombia.
 
-<br />
 <br />
 
 ## Sobre el Processing Foundation
