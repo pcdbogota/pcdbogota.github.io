@@ -95,7 +95,7 @@ Del Algorave al Reggaetron, con todo el flow del live coding. Una práctica tra�
  #### [Ícaro López](https://www.icskompany.com/)
  
   <p align="left" width="100%">
-    <img width="20%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Icaro-Foto.jpeg"> 
+    <img width="20%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Icaro.jpeg"> 
 </p>
  
 Icaro López de Mesa es diseñador interactivo, artista electrónico y músico, apasionado por la creación y experimentación sonora. Su trabajo se ha desarrollado tanto en el campo artístico como en el comercial y es el resultado de exploraciones que combinan arte, sonido, nuevos medios, música y educación. Actualmente realiza una maestría en medios digitales en la universidad de las artes en Bremen, Alemania, donde desarrolla máquinas sonoras. 
