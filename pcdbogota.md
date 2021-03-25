@@ -88,7 +88,12 @@ Del Algorave al Reggaetron, con todo el flow del live coding. Una práctica tra�
 
 
 
- #### ***Ícaro López***
+ #### Ícaro López
+ 
+  <p align="left" width="100%">
+    <img width="20%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Icaro-Foto.jpeg"> 
+</p>
+ 
 Icaro López de Mesa es diseñador interactivo, artista electrónico y músico, apasionado por la creación y experimentación sonora. Su trabajo se ha desarrollado tanto en el campo artístico como en el comercial y es el resultado de exploraciones que combinan arte, sonido, nuevos medios, música y educación. Actualmente realiza una maestría en medios digitales en la universidad de las artes en Bremen, Alemania, donde desarrolla máquinas sonoras. 
 
 ### Rituales Digitales
@@ -136,7 +141,7 @@ La ventana es una de las metáforas más utilizadas en la informática. Estos co
 ![imagen3](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-4.gif)|![imagen4](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-5.gif)
 
 
- #### ***Laura Junco***
+ #### Laura Junco
 Laura Junco es diseñadora de medios interactivos. Su trabajo se basa en la creación de dispositivos y experiencias digitales que exploran las relaciones cotidianas entre personas y dispositivos tecnológicos. Ha trabajado en el Centro Nacional de Memoria Histórica creando productos digitales que contribuyen a la protección y exigibilidad de derechos humanos en Colombia y, actualmente es diseñadora y desarrolladora de visualizaciones de datos en La Comisión de la Verdad de Colombia.
 
 
