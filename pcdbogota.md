@@ -165,5 +165,5 @@ Laura Junco es diseñadora de medios interactivos. Su trabajo se basa en la crea
 ----------|----------
     
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/pcdPiePag.gif"> 
+    <img width="100%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/pcdPiePag-div.gif"> 
 </p>    
