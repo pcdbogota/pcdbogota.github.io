@@ -163,3 +163,7 @@ Laura Junco es diseñadora de medios interactivos. Su trabajo se basa en la crea
 
 | **Organiza**      |  [<div align="right"> ![logo](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Logo-ARQDIS.png)](https://arqdis.uniandes.edu.co/) |
 ----------|----------
+    
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/pcdPiePag.gif"> 
+</p>    
