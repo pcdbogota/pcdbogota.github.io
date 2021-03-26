@@ -1,6 +1,6 @@
 
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/PCDbog.gif"> 
+    <img width="100%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Logo.mov"> 
 </p>
 
 # PROCESSING COMMUNITY DAY BOGOTÁ
