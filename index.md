@@ -110,6 +110,7 @@ Por medio de manifestaciones digitales contemporáneas, generaremos un espacio a
 
 ![NF1](Images/Nathier-1.png)|![NF2](Images/Nathier-2.png)
 ----------|----------
+   |   
 
 
 [//]: <> (<div align="left">)
@@ -165,6 +166,7 @@ Laura Junco es diseñadora de medios interactivos. Su trabajo se basa en la crea
 
 | **Organiza**      |  [![logo](Images/Logo-ARQDIS.png)](https://arqdis.uniandes.edu.co/) |
 ----------|----------
+   |   
     
 [//]: <> (<p align="center" width="100%">)
 [//]: <> (    <img width="100%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/pcdPiePag-div.gif"> )
