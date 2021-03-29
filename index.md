@@ -38,28 +38,28 @@
 
 Máster en Diseño y Creación Interactiva en el campo de los textiles interactivos, diseño urbano y el medio ambiente. Profundamente talentosa y recursiva en la práctica de la moda con 10 años de experiencia en experimentación con diseño, fabricación y restauración de prendas de vestir, centrada en los métodos sostenibles de creación de patrones de ropa y técnicas innovadoras de la moda thinker maker bien establecidas en el marco de la ciencia, la tecnología y el diseño ecológico global y local.
 
-![imagen1](Images/MariaPaulina-2.gif)|![imagen2](Images/MariaPaulina-3.png)
+![MPG1](Images/MariaPaulina-2.gif)|![MPG2](Images/MariaPaulina-3.png)
 ----------|----------
-![imagen3](Images/MariaPaulina-4.gif)|![imagen4](Images/MariaPaulina-5.png)
+![MPG3](Images/MariaPaulina-4.gif)|![MPG4](Images/MariaPaulina-5.png)
 
 ### [Francesca Rodriguez](http://www.franrodriguezsawaya.com/)
 
 <p align="left" width="100%">
-    <img width="30%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Francesca-1.jpg"> 
+    <img width="30%" src="Images/Francesca-1.jpg"> 
 </p>
 
 Nacida en Lima, Perú y actualmente basada en Brooklyn, NY. Mis trabajos combinan mis habilidades y experiencia como productora creativa y tecnóloga. Me gradué del Programa de Telecomunicaciones Interactivas en NYU. Antes de eso, trabajé 7 años como productora de videos y contenido, donde guié proyectos desde la ideación hasta la ejecución.
 
 También he estado explorando los vínculos entre el tejido y el pensamiento computacional, creando piezas que traducen historias orales en tejidos físicos que se han exhibido en el Festival New Latin Wave en Nueva York y el Festival Internacional de Arte Contemporáneo en Perú. Me desempeñé como investigadora en el Laboratorio de Tecnología en BF + DA en la Universidad de Pratt y también he dictado diferentes talleres sobre la intersección del tejido y la codificación, en lugares como Pioneer Works, Currents New Media Festival y el Museo de Brooklyn. Co-comisioné y produje la exposición “Beyond Punch Cards”, que reunió a artistas que desafían las percepciones comunes del tejido y la codificación, que tuvo lugar en Santa Fe, Nuevo México, en junio del año pasado.
 
-![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Francesca-2.jpg)|![imagen2](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Francesca-3.jpg)
+![FR1](Images/Francesca-2.jpg)|![FR2](Images/Francesca-3.jpg)
 ----------|----------
-![imagen3](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Francesca-4.jpg)|![imagen4](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Francesca-5.jpg)
+![FR3](Images/Francesca-4.jpg)|![FR4](Images/Francesca-5.jpg)
 
 
 ### [Cristian González](https://tangibleinteraction.com/)
 
-![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-1.jpg)
+![CG](Images/Cristian-1.jpg)
 
 Como Ingeniero electrónico y desarrollador encuentro en la combinación entre arte, ciencia  y tecnología un escenario con el potencial  ideal para explorar la interacción humano-máquina mediante la creación de experiencias significativas diseñadas desde un enfoque centrado en el humano.
 
@@ -67,9 +67,9 @@ Actualmente basado en Vancouver, trabajo como arquitecto de soluciones para Tang
 
 Con 8 años de experiencia en la industria creativa mi trabajo se enfoca al diseño, desarrollo e implementación de sistemas/instalaciones multimedia e interactivas que se caracterizan por integrar elementos como la creación de gráficos y contenido generativo en tiempo real, videojuegos, realidad mixta, mapping, live act, iluminación, computación física y diseño electrónico a la medida.
 
-![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-2.jpg)|![imagen2](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-3.jpg)
+![CG1](Images/Cristian-2.jpg)|![CG2](Images/Cristian-3.jpg)
 ----------|----------
-![imagen3](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-4.png)|![imagen4](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Cristian-5.jpg)
+![CG3](Images/Cristian-4.png)|![CG4](Images/Cristian-5.jpg)
 
 <br />
 
