@@ -79,10 +79,6 @@ Con 8 años de experiencia en la industria creativa mi trabajo se enfoca al dise
 
 ### Introducción al Neoperreo Algorítmico
 
-<p align="center" width="100%">
-    <img width="50%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Icaro-1.png"> 
-</p>
-
 ![IL1](Images/Icaro-1.png)
 
  *¡Vamo’ al garete con las variables!*
@@ -93,9 +89,6 @@ Del Algorave al Reggaetron, con todo el flow del live coding. Una práctica tra�
 
  #### [Ícaro López](https://www.icskompany.com/)
  
-  <p align="left" width="100%">
-    <img width="20%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Icaro.jpeg"> 
-</p>
 ![IL](Images/Icaro.jpeg)
  
 Icaro López de Mesa es diseñador interactivo, artista electrónico y músico, apasionado por la creación y experimentación sonora. Su trabajo se ha desarrollado tanto en el campo artístico como en el comercial y es el resultado de exploraciones que combinan arte, sonido, nuevos medios, música y educación. Actualmente realiza una maestría en medios digitales en la universidad de las artes en Bremen, Alemania, donde desarrolla máquinas sonoras. 
@@ -111,6 +104,8 @@ Por medio de manifestaciones digitales contemporáneas, generaremos un espacio a
     “Any sufficiently advanced technology is indistinguishable from magic.”
     - Clarke's third law.
 
+</div>
+
 ![NF1](Images/Nathier-1.png)|![NF2](Images/Nathier-2.png)
 ----------|----------
 
@@ -120,7 +115,7 @@ Por medio de manifestaciones digitales contemporáneas, generaremos un espacio a
 
 *Opcional: [Lectura antes del taller.](https://www.vice.com/en/article/wnxpxm/why-we-still-practice-superstitious-rituals-with-our-technology)*
 
-
+</div> 
     
     
  #### [Nathier Fernández](https://www.nathier.com/)
