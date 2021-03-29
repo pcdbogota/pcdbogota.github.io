@@ -44,9 +44,11 @@ Máster en Diseño y Creación Interactiva en el campo de los textiles interacti
 
 ### [Francesca Rodriguez](http://www.franrodriguezsawaya.com/)
 
-<p align="left" width="100%">
-    <img width="30%" src="Images/Francesca-1.jpg"> 
-</p>
+[//]: <> (<p align="left" width="100%">)
+[//]: <> (    <img width="30%" src="Images/Francesca-1.jpg"> )
+[//]: <> (</p>)
+
+![FR](Images/Francesca-1.jpg)
 
 Nacida en Lima, Perú y actualmente basada en Brooklyn, NY. Mis trabajos combinan mis habilidades y experiencia como productora creativa y tecnóloga. Me gradué del Programa de Telecomunicaciones Interactivas en NYU. Antes de eso, trabajé 7 años como productora de videos y contenido, donde guié proyectos desde la ideación hasta la ejecución.
 
