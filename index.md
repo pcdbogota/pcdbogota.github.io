@@ -81,6 +81,8 @@ Con 8 años de experiencia en la industria creativa mi trabajo se enfoca al dise
     <img width="50%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Icaro-1.png"> 
 </p>
 
+![IL1](Images/Icaro-1.png)
+
  *¡Vamo’ al garete con las variables!*
 
 Del Algorave al Reggaetron, con todo el flow del live coding. Una práctica traída desde las oscuras fiestas de hackers, y que juntos vamo’ a llevar a parisear. Daremos un paseo por diferentes entornos del código sonoro en vivo y luego a oir cómo la compu maquinea y como el código se arrebata bata en Sonic Pi. Perreo programado, beats y algorritmos. Conectando todo el dembow con Processing será un workshop para sandunguear. 
@@ -92,6 +94,7 @@ Del Algorave al Reggaetron, con todo el flow del live coding. Una práctica tra�
   <p align="left" width="100%">
     <img width="20%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Icaro.jpeg"> 
 </p>
+![IL](Images/Icaro.jpeg)
  
 Icaro López de Mesa es diseñador interactivo, artista electrónico y músico, apasionado por la creación y experimentación sonora. Su trabajo se ha desarrollado tanto en el campo artístico como en el comercial y es el resultado de exploraciones que combinan arte, sonido, nuevos medios, música y educación. Actualmente realiza una maestría en medios digitales en la universidad de las artes en Bremen, Alemania, donde desarrolla máquinas sonoras. 
 
@@ -106,7 +109,7 @@ Por medio de manifestaciones digitales contemporáneas, generaremos un espacio a
     “Any sufficiently advanced technology is indistinguishable from magic.”
     - Clarke's third law.
 
-![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Nathier-1.png)|![imagen2](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Nathier-2.png)
+![NF1](Images/Nathier-1.png)|![NF2](Images/Nathier-2.png)
 ----------|----------
 
 <div align="left">
@@ -124,6 +127,8 @@ Por medio de manifestaciones digitales contemporáneas, generaremos un espacio a
     <img width="20%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Nathier-Foto.jpeg"> 
 </p>
 
+![NF](Images/Nathier-Foto.jpeg)
+
 Nathier Fernández es una diseñadora y artista bogotana cuya practica multidisciplinaria se enfoca en la creacion de espacios, objetos y experiencias; en donde la tecnologia actua como una entidad mediadora y de transcipcion sobre las posibles interacciones humanas y no-humanas. Su investigacion tiene un especial interes en la interseción de los sistemas biologicos y artificiales. 
 
 
@@ -133,11 +138,13 @@ Nathier Fernández es una diseñadora y artista bogotana cuya practica multidisc
     <img width="50%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-1.gif"> 
 </p>
 
+![LJ1](Images/Laura-1.gif)
+
 La ventana es una de las metáforas más utilizadas en la informática. Estos contenedores rectangulares, permiten la entrada y salida de datos a nuestras máquinas y, a pesar de pasar desapercibidas la mayor parte del tiempo, son posiblemente la interfaz gráfica más utilizada a diario. La mayoría de las ventanas pueden ser redimensionadas, movidas, ocultadas, restauradas, y cerradas a voluntad. En este taller abordaremos las ventanas como elementos de interacción. Utilizando Processing aprenderemos a manipular los atributos subyacentes de las ventanas de nuestros sistemas operativos para usos creativos.
 
-![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-2.png)|![imagen2](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-3.png)
+![LJ1](Images/Laura-2.png)|![LJ2](Images/Laura-3.png)
 ----------|----------
-![imagen3](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-4.gif)|![imagen4](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-5.gif)
+![LJ3](Images/Laura-4.gif)|![LJ4](Images/Laura-5.gif)
 
 
  #### Laura Junco
@@ -156,9 +163,11 @@ Laura Junco es diseñadora de medios interactivos. Su trabajo se basa en la crea
 <br />
 <br />
 
-| **Organiza**      |  [<div align="right"> ![logo](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Logo-ARQDIS.png)](https://arqdis.uniandes.edu.co/) |
+| **Organiza**      |  [<div align="right"> ![logo](Images/Logo-ARQDIS.png)](https://arqdis.uniandes.edu.co/) |
 ----------|----------
     
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/pcdPiePag-div.gif"> 
 </p>    
+
+![BANNER_C](Images/pcdPiePag-div.gif)
