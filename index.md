@@ -3,6 +3,8 @@
     <img width="100%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/pcdBanner.gif"> 
 </p>
 
+![Banner](Images/pcdBanner.gif)
+
 # PROCESSING COMMUNITY DAY BOGOTÁ
 
 #### El [Processing Community Day](https://www.pcdaarhus.net/) es una iniciativa mundial impulsada por el Processing Fundation para celebrar el arte, el código y la diversidad. Actualmente este evento involucra a más de 30 ciudades del mundo, tales como New York, Sao Paulo, Toronto, London, Madrid, entre otros.
