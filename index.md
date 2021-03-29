@@ -1,8 +1,3 @@
-
-<p align="center" width="100%">
-    <img width="100%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/pcdBanner.gif"> 
-</p>
-
 ![Banner](Images/pcdBanner.gif)
 
 # PROCESSING COMMUNITY DAY BOGOTÁ
@@ -39,15 +34,13 @@
 
 ### [Maria Paulina Gutierrez](https://about.me/mariapaulina)
 
-<p align="left" width="100%">
-    <img width="40%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/MariaPaulina-1.jpg"> 
-</p>
+![MPG](Images/MariaPaulina-1.jpg)
 
 Máster en Diseño y Creación Interactiva en el campo de los textiles interactivos, diseño urbano y el medio ambiente. Profundamente talentosa y recursiva en la práctica de la moda con 10 años de experiencia en experimentación con diseño, fabricación y restauración de prendas de vestir, centrada en los métodos sostenibles de creación de patrones de ropa y técnicas innovadoras de la moda thinker maker bien establecidas en el marco de la ciencia, la tecnología y el diseño ecológico global y local.
 
-![imagen1](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/MariaPaulina-2.gif)|![imagen2](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/MariaPaulina-3.png)
+![imagen1](Images/MariaPaulina-2.gif)|![imagen2](Images/MariaPaulina-3.png)
 ----------|----------
-![imagen3](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/MariaPaulina-4.gif)|![imagen4](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/MariaPaulina-5.png)
+![imagen3](Images/MariaPaulina-4.gif)|![imagen4](Images/MariaPaulina-5.png)
 
 ### [Francesca Rodriguez](http://www.franrodriguezsawaya.com/)
 
