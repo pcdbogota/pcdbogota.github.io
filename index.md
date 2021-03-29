@@ -89,6 +89,7 @@ Del Algorave al Reggaetron, con todo el flow del live coding. Una práctica tra�
 
  #### [Ícaro López](https://www.icskompany.com/)
  
+ 
 ![IL](Images/Icaro.jpeg)
  
 Icaro López de Mesa es diseñador interactivo, artista electrónico y músico, apasionado por la creación y experimentación sonora. Su trabajo se ha desarrollado tanto en el campo artístico como en el comercial y es el resultado de exploraciones que combinan arte, sonido, nuevos medios, música y educación. Actualmente realiza una maestría en medios digitales en la universidad de las artes en Bremen, Alemania, donde desarrolla máquinas sonoras. 
@@ -99,30 +100,32 @@ En este taller exploraremos prácticas especulativas ligadas a rituales, magia, 
 
 Por medio de manifestaciones digitales contemporáneas, generaremos un espacio artificial y surrealista que se materialice a través de algoritmos. Si bien este no es un taller técnico, veremos como crear ejemplos básicos que nos permitan dar unos primeros acercamientos a escenarios ficticios, simbólicos y creativos.
 
-<div align="center"> 
+[//]: <> (<div align="center"> )
     
-    “Any sufficiently advanced technology is indistinguishable from magic.”
-    - Clarke's third law.
+>    “Any sufficiently advanced technology is indistinguishable from magic.”
+>    - Clarke's third law.
 
-</div>
+[//]: <> (</div>)
+
 
 ![NF1](Images/Nathier-1.png)|![NF2](Images/Nathier-2.png)
 ----------|----------
 
-<div align="left">
+
+[//]: <> (<div align="left">)
 
 *No hay necesidad de tener conocimiento previo en programación, ayudará eso sí, pero si el código glitchea culparemos al más allá, para todo lo demás podemos prenderle una vela a Ada Lovelace.*
 
 *Opcional: [Lectura antes del taller.](https://www.vice.com/en/article/wnxpxm/why-we-still-practice-superstitious-rituals-with-our-technology)*
 
-</div> 
+[//]: <> (</div> )
     
     
  #### [Nathier Fernández](https://www.nathier.com/)
  
- <p align="left" width="100%">
-    <img width="20%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Nathier-Foto.jpeg"> 
-</p>
+[//]: <> ( <p align="left" width="100%">)
+[//]: <> (    <img width="20%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Nathier-Foto.jpeg"> )
+[//]: <> (</p>)
 
 ![NF](Images/Nathier-Foto.jpeg)
 
@@ -131,9 +134,9 @@ Nathier Fernández es una diseñadora y artista bogotana cuya practica multidisc
 
 ### Manipulacion de ventanas con Processing
 
-<p align="center" width="100%">
-    <img width="50%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-1.gif"> 
-</p>
+[//]: <> (<p align="center" width="100%">)
+[//]: <> (    <img width="50%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-1.gif"> )
+[//]: <> (</p>)
 
 ![LJ1](Images/Laura-1.gif)
 
@@ -160,11 +163,11 @@ Laura Junco es diseñadora de medios interactivos. Su trabajo se basa en la crea
 <br />
 <br />
 
-| **Organiza**      |  [<div align="right"> ![logo](Images/Logo-ARQDIS.png)](https://arqdis.uniandes.edu.co/) |
+| **Organiza**      |  [![logo](Images/Logo-ARQDIS.png)](https://arqdis.uniandes.edu.co/) |
 ----------|----------
     
-<p align="center" width="100%">
-    <img width="100%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/pcdPiePag-div.gif"> 
-</p>    
+[//]: <> (<p align="center" width="100%">)
+[//]: <> (    <img width="100%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/pcdPiePag-div.gif"> )
+[//]: <> (</p>    )
 
 ![BANNER_C](Images/pcdPiePag-div.gif)
