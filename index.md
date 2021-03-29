@@ -87,7 +87,7 @@ Del Algorave al Reggaetron, con todo el flow del live coding. Una práctica tra�
 
 
 
- #### [Ícaro López](https://www.icskompany.com/)
+ ### [Ícaro López](https://www.icskompany.com/)
  
  
 ![IL](Images/Icaro.jpeg)
@@ -122,7 +122,7 @@ Por medio de manifestaciones digitales contemporáneas, generaremos un espacio a
 [//]: <> (</div> )
     
     
- #### [Nathier Fernández](https://www.nathier.com/)
+ ### [Nathier Fernández](https://www.nathier.com/)
  
 [//]: <> ( <p align="left" width="100%">)
 [//]: <> (    <img width="20%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Nathier-Foto.jpeg"> )
@@ -148,7 +148,7 @@ La ventana es una de las metáforas más utilizadas en la informática. Estos co
 ![LJ3](Images/Laura-4.gif)|![LJ4](Images/Laura-5.gif)
 
 
- #### Laura Junco
+ ### Laura Junco
 Laura Junco es diseñadora de medios interactivos. Su trabajo se basa en la creación de dispositivos y experiencias digitales que exploran las relaciones cotidianas entre personas y dispositivos tecnológicos. Ha trabajado en el Centro Nacional de Memoria Histórica creando productos digitales que contribuyen a la protección y exigibilidad de derechos humanos en Colombia y, actualmente es diseñadora y desarrolladora de visualizaciones de datos en La Comisión de la Verdad de Colombia.
 
 <br />
