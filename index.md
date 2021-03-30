@@ -14,19 +14,19 @@
 9:30 AM • [Maria Paulina Gutierrez](#maria-paulina-gutierrez)
 
 
-10:30 AM • [Francesca Rodriguez](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/pcdbogota.md#francesca-rodriguez)
+10:30 AM • [Francesca Rodriguez](#francesca-rodriguez)
 
 
-11:30 AM • [Cristian González](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/pcdbogota.md#cristian-gonz%C3%A1lez)
+11:30 AM • [Cristian González](#cristian-gonz%C3%A1lez)
 
 
 ### Talleres
 
-1:00 - 3:00 PM • [Introducción al Neoperreo Algorítmico](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/pcdbogota.md#introducci%C3%B3n-al-neoperreo-algor%C3%ADtmico)
+1:00 - 3:00 PM • [Introducción al Neoperreo Algorítmico](#introducci%C3%B3n-al-neoperreo-algor%C3%ADtmico)
 
-3:00 - 5:00 PM • [Rituales Digitales](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/pcdbogota.md#rituales-digitales)
+3:00 - 5:00 PM • [Rituales Digitales](#rituales-digitales)
 
-5:00 - 7:00 PM • [Manipulacion de ventanas con Processing](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/pcdbogota.md#manipulacion-de-ventanas-con-processing)
+5:00 - 7:00 PM • [Manipulacion de ventanas con Processing](#manipulacion-de-ventanas-con-processing)
 
 <br />
 
@@ -43,10 +43,6 @@ Máster en Diseño y Creación Interactiva en el campo de los textiles interacti
 ![MPG3](Images/MariaPaulina-4.gif)|![MPG4](Images/MariaPaulina-5.png)
 
 ### [Francesca Rodriguez](http://www.franrodriguezsawaya.com/)
-
-[//]: <> (<p align="left" width="100%">)
-[//]: <> (    <img width="30%" src="Images/Francesca-1.jpg"> )
-[//]: <> (</p>)
 
 ![FR](Images/Francesca-1.jpg)
 
@@ -85,11 +81,8 @@ Con 8 años de experiencia en la industria creativa mi trabajo se enfoca al dise
 
 Del Algorave al Reggaetron, con todo el flow del live coding. Una práctica traída desde las oscuras fiestas de hackers, y que juntos vamo’ a llevar a parisear. Daremos un paseo por diferentes entornos del código sonoro en vivo y luego a oir cómo la compu maquinea y como el código se arrebata bata en Sonic Pi. Perreo programado, beats y algorritmos. Conectando todo el dembow con Processing será un workshop para sandunguear. 
 
-
-
  ### [Ícaro López](https://www.icskompany.com/)
- 
- 
+  
 ![IL](Images/Icaro.jpeg)
  
 Icaro López de Mesa es diseñador interactivo, artista electrónico y músico, apasionado por la creación y experimentación sonora. Su trabajo se ha desarrollado tanto en el campo artístico como en el comercial y es el resultado de exploraciones que combinan arte, sonido, nuevos medios, música y educación. Actualmente realiza una maestría en medios digitales en la universidad de las artes en Bremen, Alemania, donde desarrolla máquinas sonoras. 
@@ -100,12 +93,10 @@ En este taller exploraremos prácticas especulativas ligadas a rituales, magia, 
 
 Por medio de manifestaciones digitales contemporáneas, generaremos un espacio artificial y surrealista que se materialice a través de algoritmos. Si bien este no es un taller técnico, veremos como crear ejemplos básicos que nos permitan dar unos primeros acercamientos a escenarios ficticios, simbólicos y creativos.
 
-[//]: <> (<div align="center"> )
     
 >    “Any sufficiently advanced technology is indistinguishable from magic.”
 >    - Clarke's third law.
 
-[//]: <> (</div>)
 
 
 ![NF1](Images/Nathier-1.png)|![NF2](Images/Nathier-2.png)
@@ -113,20 +104,15 @@ Por medio de manifestaciones digitales contemporáneas, generaremos un espacio a
    |   
 
 
-[//]: <> (<div align="left">)
 
 *No hay necesidad de tener conocimiento previo en programación, ayudará eso sí, pero si el código glitchea culparemos al más allá, para todo lo demás podemos prenderle una vela a Ada Lovelace.*
 
 *Opcional: [Lectura antes del taller.](https://www.vice.com/en/article/wnxpxm/why-we-still-practice-superstitious-rituals-with-our-technology)*
 
-[//]: <> (</div> )
     
     
  ### [Nathier Fernández](https://www.nathier.com/)
  
-[//]: <> ( <p align="left" width="100%">)
-[//]: <> (    <img width="20%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Nathier-Foto.jpeg"> )
-[//]: <> (</p>)
 
 ![NF](Images/Nathier-Foto.jpeg)
 
@@ -135,9 +121,6 @@ Nathier Fernández es una diseñadora y artista bogotana cuya practica multidisc
 
 ### Manipulacion de ventanas con Processing
 
-[//]: <> (<p align="center" width="100%">)
-[//]: <> (    <img width="50%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/Laura-1.gif"> )
-[//]: <> (</p>)
 
 ![LJ1](Images/Laura-1.gif)
 
@@ -164,12 +147,7 @@ Laura Junco es diseñadora de medios interactivos. Su trabajo se basa en la crea
 <br />
 <br />
 
-| **Organiza**      |  [![logo](Images/Logo-ARQDIS.png)](https://arqdis.uniandes.edu.co/) |
-----------|----------
-   |   
-    
-[//]: <> (<p align="center" width="100%">)
-[//]: <> (    <img width="100%" src="https://github.com/pcdbogota/pcdbogota.github.io/blob/main/Images/pcdPiePag-div.gif"> )
-[//]: <> (</p>    )
+**Organiza**
+[![logo](Images/Logo-ARQDIS.png)](https://arqdis.uniandes.edu.co/)
 
 ![BANNER_C](Images/pcdPiePag-div.gif)
