@@ -81,10 +81,11 @@ Con 8 años de experiencia en la industria creativa mi trabajo se enfoca al dise
 
 Del Algorave al Reggaetron, con todo el flow del live coding. Una práctica traída desde las oscuras fiestas de hackers, y que juntos vamo’ a llevar a parisear. Daremos un paseo por diferentes entornos del código sonoro en vivo y luego a oir cómo la compu maquinea y como el código se arrebata bata en Sonic Pi. Perreo programado, beats y algorritmos. Conectando todo el dembow con Processing será un workshop para sandunguear. 
 
- ### [Ícaro López](https://www.icskompany.com/)
-  
+
+#### [Ícaro López](https://www.icskompany.com/)
+
 ![IL](Images/Icaro.jpeg)
- 
+
 Icaro López de Mesa es diseñador interactivo, artista electrónico y músico, apasionado por la creación y experimentación sonora. Su trabajo se ha desarrollado tanto en el campo artístico como en el comercial y es el resultado de exploraciones que combinan arte, sonido, nuevos medios, música y educación. Actualmente realiza una maestría en medios digitales en la universidad de las artes en Bremen, Alemania, donde desarrolla máquinas sonoras. 
 
 ### Rituales Digitales
@@ -93,7 +94,7 @@ En este taller exploraremos prácticas especulativas ligadas a rituales, magia, 
 
 Por medio de manifestaciones digitales contemporáneas, generaremos un espacio artificial y surrealista que se materialice a través de algoritmos. Si bien este no es un taller técnico, veremos como crear ejemplos básicos que nos permitan dar unos primeros acercamientos a escenarios ficticios, simbólicos y creativos.
 
-    
+
 >    “Any sufficiently advanced technology is indistinguishable from magic.”
 >    - Clarke's third law.
 
@@ -109,10 +110,7 @@ Por medio de manifestaciones digitales contemporáneas, generaremos un espacio a
 
 *Opcional: [Lectura antes del taller.](https://www.vice.com/en/article/wnxpxm/why-we-still-practice-superstitious-rituals-with-our-technology)*
 
-    
-    
- ### [Nathier Fernández](https://www.nathier.com/)
- 
+#### [Nathier Fernández](https://www.nathier.com/)
 
 ![NF](Images/Nathier-Foto.jpeg)
 
@@ -120,7 +118,6 @@ Nathier Fernández es una diseñadora y artista bogotana cuya practica multidisc
 
 
 ### Manipulacion de ventanas con Processing
-
 
 ![LJ1](Images/Laura-1.gif)
 
@@ -131,7 +128,7 @@ La ventana es una de las metáforas más utilizadas en la informática. Estos co
 ![LJ3](Images/Laura-4.gif)|![LJ4](Images/Laura-5.gif)
 
 
- ### Laura Junco
+#### Laura Junco
 Laura Junco es diseñadora de medios interactivos. Su trabajo se basa en la creación de dispositivos y experiencias digitales que exploran las relaciones cotidianas entre personas y dispositivos tecnológicos. Ha trabajado en el Centro Nacional de Memoria Histórica creando productos digitales que contribuyen a la protección y exigibilidad de derechos humanos en Colombia y, actualmente es diseñadora y desarrolladora de visualizaciones de datos en La Comisión de la Verdad de Colombia.
 
 <br />
