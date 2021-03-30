@@ -1,9 +1,17 @@
 ![Banner](Images/pcdBanner.gif)
 
+<br />
+<br />
+<br />
+
 # PROCESSING COMMUNITY DAY BOGOTÁ
 
 #### El [Processing Community Day](https://processingfoundation.org/advocacy/processing-community-day-2020) es una iniciativa mundial impulsada por el Processing Fundation para celebrar el arte, el código y la diversidad. Actualmente este evento involucra a más de 30 ciudades del mundo, tales como New York, Sao Paulo, Toronto, Londres, Madrid, entre otras.
 #### Este día tiene como objetivo promover el uso de herramientas digitales e incentivar el interés de la comunidad en la creación visual a través de la programación. Se promueve un dialogo en donde se exponen diversas formas de trabajar y pensar con software, así como se comparten ideas en desarrollo y proyectos terminados, impulsando a aquellas personas interesadas en el área a aprender y a crear a partir de código.
+
+<br />
+<br />
+<br />
 
 ## PROGRAMA
 
@@ -29,8 +37,13 @@
 5:00 - 7:00 PM • [Manipulacion de ventanas con Processing](#manipulacion-de-ventanas-con-processing)
 
 <br />
+<br />
+<br />
 
-## Conferencistas
+## PRESENTADORES
+
+<br />
+<br />
 
 ### [Maria Paulina Gutierrez](https://about.me/mariapaulina)
 
@@ -41,6 +54,9 @@ Máster en Diseño y Creación Interactiva en el campo de los textiles interacti
 ![MPG1](Images/MariaPaulina-2.gif)|![MPG2](Images/MariaPaulina-3.png)
 ----------|----------
 ![MPG3](Images/MariaPaulina-4.gif)|![MPG4](Images/MariaPaulina-5.png)
+
+<br />
+<br />
 
 ### [Francesca Rodriguez](http://www.franrodriguezsawaya.com/)
 
@@ -54,6 +70,8 @@ También he estado explorando los vínculos entre el tejido y el pensamiento com
 ----------|----------
 ![FR3](Images/Francesca-4.jpg)|![FR4](Images/Francesca-5.jpg)
 
+<br />
+<br />
 
 ### [Cristian González](https://tangibleinteraction.com/)
 
@@ -70,8 +88,13 @@ Con 8 años de experiencia en la industria creativa mi trabajo se enfoca al dise
 ![CG3](Images/Cristian-4.png)|![CG4](Images/Cristian-5.jpg)
 
 <br />
+<br />
+<br />
 
 ## Talleres
+
+<br />
+<br />
 
 ### Introducción al Neoperreo Algorítmico
 
@@ -81,12 +104,14 @@ Con 8 años de experiencia en la industria creativa mi trabajo se enfoca al dise
 
 Del Algorave al Reggaetron, con todo el flow del live coding. Una práctica traída desde las oscuras fiestas de hackers, y que juntos vamo’ a llevar a parisear. Daremos un paseo por diferentes entornos del código sonoro en vivo y luego a oir cómo la compu maquinea y como el código se arrebata bata en Sonic Pi. Perreo programado, beats y algorritmos. Conectando todo el dembow con Processing será un workshop para sandunguear. 
 
-
 #### [Ícaro López](https://www.icskompany.com/)
 
 ![IL](Images/Icaro.jpeg)
 
 Icaro López de Mesa es diseñador interactivo, artista electrónico y músico, apasionado por la creación y experimentación sonora. Su trabajo se ha desarrollado tanto en el campo artístico como en el comercial y es el resultado de exploraciones que combinan arte, sonido, nuevos medios, música y educación. Actualmente realiza una maestría en medios digitales en la universidad de las artes en Bremen, Alemania, donde desarrolla máquinas sonoras. 
+
+<br />
+<br />
 
 ### Rituales Digitales
 
@@ -94,17 +119,12 @@ En este taller exploraremos prácticas especulativas ligadas a rituales, magia, 
 
 Por medio de manifestaciones digitales contemporáneas, generaremos un espacio artificial y surrealista que se materialice a través de algoritmos. Si bien este no es un taller técnico, veremos como crear ejemplos básicos que nos permitan dar unos primeros acercamientos a escenarios ficticios, simbólicos y creativos.
 
-
 >    “Any sufficiently advanced technology is indistinguishable from magic.”
 >    - Clarke's third law.
-
-
 
 ![NF1](Images/Nathier-1.png)|![NF2](Images/Nathier-2.png)
 ----------|----------
    |   
-
-
 
 *No hay necesidad de tener conocimiento previo en programación, ayudará eso sí, pero si el código glitchea culparemos al más allá, para todo lo demás podemos prenderle una vela a Ada Lovelace.*
 
@@ -116,6 +136,8 @@ Por medio de manifestaciones digitales contemporáneas, generaremos un espacio a
 
 Nathier Fernández es una diseñadora y artista bogotana cuya practica multidisciplinaria se enfoca en la creacion de espacios, objetos y experiencias; en donde la tecnologia actua como una entidad mediadora y de transcipcion sobre las posibles interacciones humanas y no-humanas. Su investigacion tiene un especial interes en la interseción de los sistemas biologicos y artificiales. 
 
+<br />
+<br />
 
 ### Manipulacion de ventanas con Processing
 
@@ -132,6 +154,7 @@ La ventana es una de las metáforas más utilizadas en la informática. Estos co
 Laura Junco es diseñadora de medios interactivos. Su trabajo se basa en la creación de dispositivos y experiencias digitales que exploran las relaciones cotidianas entre personas y dispositivos tecnológicos. Ha trabajado en el Centro Nacional de Memoria Histórica creando productos digitales que contribuyen a la protección y exigibilidad de derechos humanos en Colombia y, actualmente es diseñadora y desarrolladora de visualizaciones de datos en La Comisión de la Verdad de Colombia.
 
 <br />
+<br />
 
 ## Sobre el Processing Foundation
 
@@ -139,8 +162,6 @@ Laura Junco es diseñadora de medios interactivos. Su trabajo se basa en la crea
 
 [El Processing Foundation](https://processingfoundation.org) fue fundado en el 2012 con el objetivo de promover la alfabetización de software dentro de las artes visuales y los campos relacionados con tecnologías. El centro de su filosofía y política es un concepto conocido como FLOSS (Free, Libre, Open Source Software) ya que ven el Software como un medio que conecta el pensamiento con el hacer, y por esta razón deberia ser de gratis acceso. Ademas, afirman que aprender a programar no se trata unicamente de adquirir ciertas habilidades sino de tener un proceso creativo y exploratorio, por lo que debe ser accesible a todos.
 
-<br />
-<br />
 <br />
 <br />
 
