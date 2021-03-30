@@ -2,16 +2,16 @@
 
 # PROCESSING COMMUNITY DAY BOGOTÁ
 
-#### El [Processing Community Day](https://www.pcdaarhus.net/) es una iniciativa mundial impulsada por el Processing Fundation para celebrar el arte, el código y la diversidad. Actualmente este evento involucra a más de 30 ciudades del mundo, tales como New York, Sao Paulo, Toronto, London, Madrid, entre otros.
-#### Este día tiene como objetivo promover el uso de herramientas digitales e incentivar el interés de la comunidad en la creación visual a través de la programación. Se promueve un dialogo en donde se exponen diversas formas de trabajar y pensar con el software, así como se comparten ideas en desarrollo y proyectos terminados, impulsando a aquellas personas interesadas en el área a aprender y a crear a partir de código.
+#### El [Processing Community Day](https://processingfoundation.org/advocacy/processing-community-day-2020) es una iniciativa mundial impulsada por el Processing Fundation para celebrar el arte, el código y la diversidad. Actualmente este evento involucra a más de 30 ciudades del mundo, tales como New York, Sao Paulo, Toronto, Londres, Madrid, entre otras.
+#### Este día tiene como objetivo promover el uso de herramientas digitales e incentivar el interés de la comunidad en la creación visual a través de la programación. Se promueve un dialogo en donde se exponen diversas formas de trabajar y pensar con software, así como se comparten ideas en desarrollo y proyectos terminados, impulsando a aquellas personas interesadas en el área a aprender y a crear a partir de código.
 
-## Cronograma Martes 06/04/2021
+## PROGRAMA
 
 ### Presentaciones
 
-9:00 AM • Bienvenida e introducción
+9:15 AM • Bienvenida
 
-9:30 AM • [Maria Paulina Gutierrez](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/pcdbogota.md#maria-paulina-gutierrez)
+9:30 AM • [Maria Paulina Gutierrez](#maria-paulina-gutierrez)
 
 
 10:30 AM • [Francesca Rodriguez](https://github.com/pcdbogota/pcdbogota.github.io/blob/main/pcdbogota.md#francesca-rodriguez)
