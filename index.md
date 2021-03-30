@@ -112,7 +112,7 @@ Icaro López de Mesa es diseñador interactivo, artista electrónico y músico, 
 
 ### Rituales Digitales
 
-En este taller exploraremos prácticas especulativas ligadas a rituales, magia, mitología y supersticiones desde un punto de vista cultural, filosófico y/o religiosos. 
+En este taller exploraremos prácticas especulativas ligadas a rituales, magia, mitología y supersticiones desde un punto de vista cultural, filosófico y/o religiosos.
 
 Por medio de manifestaciones digitales contemporáneas, generaremos un espacio artificial y surrealista que se materialice a través de algoritmos. Si bien este no es un taller técnico, veremos como crear ejemplos básicos que nos permitan dar unos primeros acercamientos a escenarios ficticios, simbólicos y creativos.
 
@@ -121,7 +121,7 @@ Por medio de manifestaciones digitales contemporáneas, generaremos un espacio a
 
 ![NF1](Images/Nathier-1.png)|![NF2](Images/Nathier-2.png)
 ----------|----------
-   |   
+*Confesionario digital creado en p5js*   |*Dual tarot creado en p5js*   
 
 *No hay necesidad de tener conocimiento previo en programación, ayudará eso sí, pero si el código glitchea culparemos al más allá, para todo lo demás podemos prenderle una vela a Ada Lovelace.*
 
@@ -131,7 +131,7 @@ Por medio de manifestaciones digitales contemporáneas, generaremos un espacio a
 
 ![NF](Images/Nathier-Foto.jpeg)
 
-Nathier Fernández es una diseñadora y artista bogotana cuya practica multidisciplinaria se enfoca en la creacion de espacios, objetos y experiencias; en donde la tecnologia actua como una entidad mediadora y de transcipcion sobre las posibles interacciones humanas y no-humanas. Su investigacion tiene un especial interes en la interseción de los sistemas biologicos y artificiales. 
+Nathier Fernández es una diseñadora y artista bogotana cuya práctica multidisciplinaria se enfoca en la creación de espacios, objetos y experiencias; en donde la tecnología actúa como una entidad mediadora y de transcripción sobre las posibles interacciones humanas y no-humanas. Su investigación tiene un especial interés en la intersección de los sistemas biológicos y artificiales.
 
 <br />
 <br />
