@@ -1,7 +1,8 @@
+<br />
+<br />
+
 ![Banner](Images/pcdBanner.gif)
 
-<br />
-<br />
 <br />
 
 # PROCESSING COMMUNITY DAY BOGOTÁ
@@ -9,8 +10,6 @@
 #### El [Processing Community Day](https://processingfoundation.org/advocacy/processing-community-day-2020) es una iniciativa mundial impulsada por el Processing Fundation para celebrar el arte, el código y la diversidad. Actualmente este evento involucra a más de 30 ciudades del mundo, tales como New York, Sao Paulo, Toronto, Londres, Madrid, entre otras.
 #### Este día tiene como objetivo promover el uso de herramientas digitales e incentivar el interés de la comunidad en la creación visual a través de la programación. Se promueve un dialogo en donde se exponen diversas formas de trabajar y pensar con software, así como se comparten ideas en desarrollo y proyectos terminados, impulsando a aquellas personas interesadas en el área a aprender y a crear a partir de código.
 
-<br />
-<br />
 <br />
 
 ## PROGRAMA
@@ -42,7 +41,6 @@
 
 ## PRESENTADORES
 
-<br />
 <br />
 
 ### [Maria Paulina Gutierrez](https://about.me/mariapaulina)
@@ -94,7 +92,6 @@ Con 8 años de experiencia en la industria creativa mi trabajo se enfoca al dise
 ## Talleres
 
 <br />
-<br />
 
 ### Introducción al Neoperreo Algorítmico
 
@@ -139,7 +136,7 @@ Nathier Fernández es una diseñadora y artista bogotana cuya practica multidisc
 <br />
 <br />
 
-### Manipulacion de ventanas con Processing
+### Interfaces invisibles: ventanas
 
 ![LJ1](Images/Laura-1.gif)
 
@@ -150,7 +147,10 @@ La ventana es una de las metáforas más utilizadas en la informática. Estos co
 ![LJ3](Images/Laura-4.gif)|![LJ4](Images/Laura-5.gif)
 
 
-#### Laura Junco
+#### [Laura Junco](https://laurajunco.live/)
+
+![LJ](Images/Laura-5.png)
+
 Laura Junco es diseñadora de medios interactivos. Su trabajo se basa en la creación de dispositivos y experiencias digitales que exploran las relaciones cotidianas entre personas y dispositivos tecnológicos. Ha trabajado en el Centro Nacional de Memoria Histórica creando productos digitales que contribuyen a la protección y exigibilidad de derechos humanos en Colombia y, actualmente es diseñadora y desarrolladora de visualizaciones de datos en La Comisión de la Verdad de Colombia.
 
 <br />
