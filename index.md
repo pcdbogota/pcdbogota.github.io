@@ -145,6 +145,7 @@ Laura Junco es diseñadora de medios interactivos. Su trabajo se basa en la crea
 <br />
 
 **Organiza**
+
 [![logo](Images/Logo-ARQDIS.png)](https://arqdis.uniandes.edu.co/)
 
 ![BANNER_C](Images/pcdPiePag-div.gif)
