@@ -33,7 +33,7 @@
 
 3:00 - 5:00 PM • [Rituales Digitales](#rituales-digitales)
 
-5:00 - 7:00 PM • [Manipulacion de ventanas con Processing](#manipulacion-de-ventanas-con-processing)
+5:00 - 7:00 PM • [Interfaces Invisibles: Ventanas](#interfaces-invisibles-ventanas)
 
 <br />
 <br />
@@ -136,7 +136,7 @@ Nathier Fernández es una diseñadora y artista bogotana cuya practica multidisc
 <br />
 <br />
 
-### Interfaces invisibles: ventanas
+### Interfaces Invisibles: Ventanas
 
 ![LJ1](Images/Laura-1.gif)
 
