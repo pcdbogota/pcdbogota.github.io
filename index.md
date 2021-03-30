@@ -14,15 +14,15 @@
 
 ## PROGRAMA
 
+**Acá mismo podrán encontrar los enlaces para conectarse a las presentaciones y los talleres el día del evento.**
+
 ### Presentaciones
 
 9:15 AM • Bienvenida
 
 9:30 AM • [Maria Paulina Gutierrez](#maria-paulina-gutierrez)
 
-
 10:30 AM • [Francesca Rodriguez](#francesca-rodriguez)
-
 
 11:30 AM • [Cristian González](#cristian-gonz%C3%A1lez)
 
