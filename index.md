@@ -116,8 +116,8 @@ En este taller exploraremos prácticas especulativas ligadas a rituales, magia, 
 
 Por medio de manifestaciones digitales contemporáneas, generaremos un espacio artificial y surrealista que se materialice a través de algoritmos. Si bien este no es un taller técnico, veremos como crear ejemplos básicos que nos permitan dar unos primeros acercamientos a escenarios ficticios, simbólicos y creativos.
 
->    “Any sufficiently advanced technology is indistinguishable from magic.”
->    - Clarke's third law.
+>    *“Any sufficiently advanced technology is indistinguishable from magic.”*
+>    **Clarke's third law.**
 
 ![NF1](Images/Nathier-1.png)|![NF2](Images/Nathier-2.png)
 ----------|----------
