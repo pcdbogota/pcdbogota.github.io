@@ -66,9 +66,9 @@ En los últimos años he estado explorando los vínculos entre el tejido y el pe
 
 Mi más reciente co-creación se titula Warping the Future, y es una exhibición virtual que trata de conectar la historia de los tejidos con la historia de la computación, resaltando las herramientas y las sociedades que han sido transcendentales para esta historia.
 
-![FR1](Images/Francesca-6.jpeg)|![FR2](Images/Francesca-7.png)
+![FR1](Images/Francesca-6.jpeg)|![FR2](Images/Francesca-8.jpg)
 ----------|----------
-![FR3](Images/Francesca-8.jpg)|![FR4](Images/Francesca-5.jpg)
+![FR3](Images/Francesca-9.png)|![FR4](Images/Francesca-5.jpg)
 
 <br />
 <br />
