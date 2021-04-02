@@ -22,7 +22,7 @@
 
 9:30 AM • [Maria Paulina Gutierrez](#maria-paulina-gutierrez)
 
-10:30 AM • [Francesca Rodriguez](#francesca-rodriguez)
+10:30 AM • [Francesca Rodriguez Sawaya](#francesca-rodriguez-sawaya)
 
 11:30 AM • [Cristian González](#cristian-gonz%C3%A1lez)
 
@@ -56,17 +56,19 @@ Máster en Diseño y Creación Interactiva en el campo de los textiles interacti
 <br />
 <br />
 
-### [Francesca Rodriguez](http://www.franrodriguezsawaya.com/)
+### [Francesca Rodriguez Sawaya](http://www.franrodriguezsawaya.com/)
 
 ![FR](Images/Francesca-1.jpg)
 
-Nacida en Lima, Perú y actualmente basada en Brooklyn, NY. Mis trabajos combinan mis habilidades y experiencia como productora creativa y tecnóloga. Me gradué del Programa de Telecomunicaciones Interactivas en NYU. Antes de eso, trabajé 7 años como productora de videos y contenido, donde guié proyectos desde la ideación hasta la ejecución.
+Nacida en Lima, Perú y actualmente basada en Brooklyn, NY. Mi trabajo combina mi experiencia como productora creativa y mi pasión por el diseño, el arte y la tecnología. Me gradué del Interactive Telecommunication Program en NYU y antes de eso trabajé 7 años como productora de videos y contenido, donde lideré proyectos desde la ideación hasta la ejecución.
 
-También he estado explorando los vínculos entre el tejido y el pensamiento computacional, creando piezas que traducen historias orales en tejidos físicos que se han exhibido en el Festival New Latin Wave en Nueva York y el Festival Internacional de Arte Contemporáneo en Perú. Me desempeñé como investigadora en el Laboratorio de Tecnología en BF + DA en la Universidad de Pratt y también he dictado diferentes talleres sobre la intersección del tejido y la codificación, en lugares como Pioneer Works, Currents New Media Festival y el Museo de Brooklyn. Co-comisioné y produje la exposición “Beyond Punch Cards”, que reunió a artistas que desafían las percepciones comunes del tejido y la codificación, que tuvo lugar en Santa Fe, Nuevo México, en junio del año pasado.
+En los últimos años he estado explorando los vínculos entre el tejido y el pensamiento computacional, creando piezas que traducen historias orales en tejidos físicos que se han exhibido en el Festival New Latin Wave en Nueva York y el Festival Internacional de Arte Contemporáneo en Perú. Me desempeñé como investigadora en el Laboratorio de Tecnología en BF + DA en la Universidad de Pratt y también he dictado diferentes talleres sobre la intersección del tejido y la codificación, en lugares como Pioneer Works, Currents New Media Festival y el Brooklyn Museum. Recientemente lideré una serie de talleres sobre Narrativas Tangibles en el MoMA Museum of Modern Art. Fui co-curadora de la exposición “Beyond Punch Cards”, que reunió a artistas que desafían las percepciones comunes del tejido y la programación, que tuvo lugar en Santa Fe, Nuevo México, en junio del 2019.
 
-![FR1](Images/Francesca-2.jpg)|![FR2](Images/Francesca-3.jpg)
+Mi más reciente co-creación se titula Warping the Future, y es una exhibición virtual que trata de conectar la historia de los tejidos con la historia de la computación, resaltando las herramientas y las sociedades que han sido transcendentales para esta historia.
+
+![FR1](Images/Francesca-6.jpeg)|![FR2](Images/Francesca-7.png)
 ----------|----------
-![FR3](Images/Francesca-4.jpg)|![FR4](Images/Francesca-5.jpg)
+![FR3](Images/Francesca-8.jpg)|![FR4](Images/Francesca-5.jpg)
 
 <br />
 <br />
