@@ -68,7 +68,7 @@ Mi más reciente co-creación se titula Warping the Future, y es una exhibición
 
 ![FR1](Images/Francesca-6.jpeg)|![FR2](Images/Francesca-8.jpg)
 ----------|----------
-![FR3](Images/Francesca-9.png)|![FR4](Images/Francesca-5.jpg)
+![FR3](Images/Francesca-7.png)|![FR4](Images/Francesca-5.jpg)
 
 <br />
 <br />
