@@ -29,11 +29,11 @@
 
 ### Talleres
 
-1:00 - 3:00 PM • [Introducción al Neoperreo Algorítmico](#introducci%C3%B3n-al-neoperreo-algor%C3%ADtmico) [(Via ZOOM)](https://uniandes-edu-co.zoom.us/j/84103547304)
+1:00 - 3:00 PM • [Introducción al Neoperreo Algorítmico](#introducci%C3%B3n-al-neoperreo-algor%C3%ADtmico) **[(Via ZOOM)](https://uniandes-edu-co.zoom.us/j/84103547304)**
 
-3:00 - 5:00 PM • [Rituales Digitales](#rituales-digitales) [(Via ZOOM)](https://uniandes-edu-co.zoom.us/j/83825842655)
+3:00 - 5:00 PM • [Rituales Digitales](#rituales-digitales) **[(Via ZOOM)](https://uniandes-edu-co.zoom.us/j/83825842655)**
 
-5:00 - 7:00 PM • [Interfaces Invisibles: Ventanas](#interfaces-invisibles-ventanas) [(Via ZOOM)](https://uniandes-edu-co.zoom.us/j/82122521064)
+5:00 - 7:00 PM • [Interfaces Invisibles: Ventanas](#interfaces-invisibles-ventanas) **[(Via ZOOM)](https://uniandes-edu-co.zoom.us/j/82122521064)**
 
 <br />
 <br />
@@ -95,7 +95,7 @@ Con 8 años de experiencia en la industria creativa mi trabajo se enfoca al dise
 
 <br />
 
-### Introducción al Neoperreo Algorítmico
+### Introducción al Neoperreo Algorítmico **[(Via ZOOM)](https://uniandes-edu-co.zoom.us/j/84103547304)**
 
 ![IL1](Images/Icaro-1.png)
 
@@ -112,7 +112,7 @@ Icaro López de Mesa es diseñador interactivo, artista electrónico y músico, 
 <br />
 <br />
 
-### Rituales Digitales
+### Rituales Digitales **[(Via ZOOM)](https://uniandes-edu-co.zoom.us/j/83825842655)**
 
 En este taller exploraremos prácticas especulativas ligadas a rituales, magia, mitología y supersticiones desde un punto de vista cultural, filosófico y/o religiosos.
 
@@ -138,7 +138,7 @@ Nathier Fernández es una diseñadora y artista bogotana cuya práctica multidis
 <br />
 <br />
 
-### Interfaces Invisibles: Ventanas
+### Interfaces Invisibles: Ventanas **[(Via ZOOM)](https://uniandes-edu-co.zoom.us/j/82122521064)**
 
 ![LJ1](Images/Laura-1.gif)
 
