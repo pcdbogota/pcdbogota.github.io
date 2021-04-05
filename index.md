@@ -16,7 +16,7 @@
 
 **Acá mismo podrán encontrar los enlaces para conectarse a las presentaciones y los talleres el día del evento.**
 
-### Presentaciones
+### Presentaciones [(Via ZOOM)](https://uniandes-edu-co.zoom.us/j/89729296880)
 
 9:15 AM • Bienvenida
 
@@ -29,11 +29,11 @@
 
 ### Talleres
 
-1:00 - 3:00 PM • [Introducción al Neoperreo Algorítmico](#introducci%C3%B3n-al-neoperreo-algor%C3%ADtmico)
+1:00 - 3:00 PM • [Introducción al Neoperreo Algorítmico](#introducci%C3%B3n-al-neoperreo-algor%C3%ADtmico) [(Via ZOOM)](https://uniandes-edu-co.zoom.us/j/84103547304)
 
-3:00 - 5:00 PM • [Rituales Digitales](#rituales-digitales)
+3:00 - 5:00 PM • [Rituales Digitales](#rituales-digitales) [(Via ZOOM)](https://uniandes-edu-co.zoom.us/j/83825842655)
 
-5:00 - 7:00 PM • [Interfaces Invisibles: Ventanas](#interfaces-invisibles-ventanas)
+5:00 - 7:00 PM • [Interfaces Invisibles: Ventanas](#interfaces-invisibles-ventanas) [(Via ZOOM)](https://uniandes-edu-co.zoom.us/j/82122521064)
 
 <br />
 <br />
