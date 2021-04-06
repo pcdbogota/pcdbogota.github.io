@@ -16,7 +16,7 @@
 
 **Acá mismo podrán encontrar los enlaces para conectarse a las presentaciones y los talleres el día del evento.**
 
-### Presentaciones [(Via ZOOM)](https://uniandes-edu-co.zoom.us/j/89729296880)
+### Presentaciones
 
 9:15 AM • Bienvenida
 
@@ -33,7 +33,7 @@
 
 3:00 - 5:00 PM • [Rituales Digitales](#rituales-digitales-via-zoom) **[(Via ZOOM)](https://uniandes-edu-co.zoom.us/j/83825842655)**
 
-5:00 - 7:00 PM • [Interfaces Invisibles: Ventanas](#interfaces-invisibles-ventanas-via-zoom) **[(Via ZOOM)](https://uniandes-edu-co.zoom.us/j/82122521064)**
+5:00 - 7:00 PM • [Interfaces Invisibles: Ventanas](#interfaces-invisibles-ventanas-via-zoom) **[(Via ZOOM)](https://uniandes-edu-co.zoom.us/j/82122521064)** **[(Materiales para el taller)](https://github.com/laurajunco/interfaces-invisibles)**
 
 <br />
 <br />
