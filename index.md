@@ -31,7 +31,7 @@
 
 1:00 - 3:00 PM • [Introducción al Neoperreo Algorítmico](#introducción-al-neoperreo-algorítmico-via-zoom) **[(Enlaces y Materiales para el taller)](materiales/neoPerreoAlgoritmico.zip)**
 
-3:00 - 5:00 PM • [Rituales Digitales](#rituales-digitales-via-zoom) **[(Via ZOOM)](https://uniandes-edu-co.zoom.us/j/83825842655)**
+3:00 - 5:00 PM • [Rituales Digitales](#rituales-digitales-via-zoom)
 
 5:00 - 7:00 PM • [Interfaces Invisibles: Ventanas](#interfaces-invisibles-ventanas-via-zoom) **[(Via ZOOM)](https://uniandes-edu-co.zoom.us/j/82122521064)** **[(Materiales para el taller)](https://github.com/laurajunco/interfaces-invisibles)**
 
