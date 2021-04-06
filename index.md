@@ -29,7 +29,7 @@
 
 ### Talleres
 
-1:00 - 3:00 PM • [Introducción al Neoperreo Algorítmico](#introducción-al-neoperreo-algorítmico-via-zoom) **[(Via ZOOM)](https://uniandes-edu-co.zoom.us/j/84103547304)** **[(Enlaces y Materiales para el taller)](materiales/neoPerreoAlgoritmico.zip)**
+1:00 - 3:00 PM • [Introducción al Neoperreo Algorítmico](#introducción-al-neoperreo-algorítmico-via-zoom) **[(Enlaces y Materiales para el taller)](materiales/neoPerreoAlgoritmico.zip)**
 
 3:00 - 5:00 PM • [Rituales Digitales](#rituales-digitales-via-zoom) **[(Via ZOOM)](https://uniandes-edu-co.zoom.us/j/83825842655)**
 
