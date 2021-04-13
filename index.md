@@ -20,20 +20,20 @@
 
 9:15 AM • Bienvenida
 
-9:30 AM • [Maria Paulina Gutierrez](#maria-paulina-gutierrez)
+9:30 AM • [Maria Paulina Gutierrez](#maria-paulina-gutierrez) **[(Ver en Dropbox)](https://www.dropbox.com/s/iui26l1e826chqy/01%20Maria%20Paulina%20Gutierrez.mp4?dl=0)**
 
-10:30 AM • [Francesca Rodriguez Sawaya](#francesca-rodriguez-sawaya)
+10:30 AM • [Francesca Rodriguez Sawaya](#francesca-rodriguez-sawaya) **[(Ver en Dropbox)](https://www.dropbox.com/s/a7g1agg2jnt14o5/02%20Francesca%20Rodriguez%20Sawaya.mp4?dl=0)**
 
-11:30 AM • [Cristian González](#cristian-gonz%C3%A1lez)
+11:30 AM • [Cristian González](#cristian-gonz%C3%A1lez) **[(Ver en Dropbox)](https://www.dropbox.com/s/0pqfznxib79fc8f/03%20Cristian%20Gonz%C3%A1lez.mp4?dl=0)**
 
 
 ### Talleres
 
-1:00 - 3:00 PM • [Introducción al Neoperreo Algorítmico](#introducción-al-neoperreo-algorítmico) **[(Enlaces y Materiales para el taller)](materiales/neoPerreoAlgoritmico.zip)**
+1:00 - 3:00 PM • [Introducción al Neoperreo Algorítmico](#introducción-al-neoperreo-algorítmico) **[(Ver en Dropbox)](https://www.dropbox.com/s/z2f5erkxbcy54zj/04%20Introducci%C3%B3n%20al%20Neoperreo%20Algor%C3%ADtmico.mp4?dl=0)** **[(Enlaces y Materiales para el taller)](materiales/neoPerreoAlgoritmico.zip)**
 
-3:00 - 5:00 PM • [Rituales Digitales](#rituales-digitales)
+3:00 - 5:00 PM • [Rituales Digitales](#rituales-digitales) **[(Ver en Dropbox)](https://www.dropbox.com/s/lnz6596eg1ognn8/05%20Rituales%20Digitales.mp4?dl=0)**
 
-5:00 - 7:00 PM • [Interfaces Invisibles: Ventanas](#interfaces-invisibles-ventanas) **[(Materiales para el taller)](https://github.com/laurajunco/interfaces-invisibles)**
+5:00 - 7:00 PM • [Interfaces Invisibles: Ventanas](#interfaces-invisibles-ventanas) **[(Ver en Dropbox)](https://www.dropbox.com/s/nb1mja9rj6h5m5k/06%20Interfaces%20Invisibles%20-%20Ventanas.mp4?dl=0)** **[(Materiales para el taller)](https://github.com/laurajunco/interfaces-invisibles)**
 
 <br />
 <br />
